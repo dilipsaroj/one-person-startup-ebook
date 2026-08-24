@@ -1,0 +1,3052 @@
+
+
+-- 1 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI
+Copyright & Disclaimer
+THE ONE-PERSON STARTUP WITH AI
+How to Build a Thriving Business — Alone — Using the Power of Artificial Intelligence
+First Edition · 2026
+Copyright © 2026 Dilip Saroj. All rights reserved.
+No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior
+written permission of the author, except for brief quotations permitted by copyright law.
+Disclaimer. This book is for educational and informational purposes only. It does not constitute financial, legal, tax, or
+investment advice. Business outcomes vary and the examples are not guarantees of results. Tool prices, platform
+policies, and tax rules change frequently; verify current details independently and consult qualified professionals
+where appropriate.
+Research and examples in this book draw on public reporting, company information, and founder statements. Verify
+time-sensitive claims before making decisions.
+2026 EDITION DILIP SAROJ
+
+-- 2 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI
+3
+Contents
+Fifteen chapters, four appendices, and a 90-day plan.
+Before You
+Begin How to Use This Book 5
+PART I · FOUNDATIONS
+Chapter 1 The New Era of the Solo Founder 8
+Chapter 2 The Solopreneur Mindset 12
+Chapter 3 Finding a Niche That Pays 17
+PART II · BUILDING
+Chapter 4 Your AI Tool Stack 26
+Chapter 5 The Five Business Models 34
+Chapter 6 Building and Launching in 30 Days 39
+PART III · GROWTH
+Chapter 7 Distribution and Marketing 45
+Chapter 8 Pricing and Monetisation 50
+Chapter 9 Operations and Automation 54
+PART IV · REALITY
+Chapter 10 The Money Reality 59
+Chapter 11 What Goes Wrong 63
+Chapter 12 Six Founders, Six Paths 67
+Chapter 13 Scaling Without Hiring 71
+PART V · EXECUTION
+Chapter 14 A Complete Worked Example 75
+Chapter 15 Your 90-Day Plan 80
+APPENDICES
+Appendix A The Prompt Library 85
+
+-- 3 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI
+4
+Appendix B Templates and Frameworks 98
+Appendix C Operating From India 102
+Appendix D Tools and Communities 107
+
+-- 4 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI
+5
+BEFORE YOU BEGIN
+How to Use This Book
+Five minutes that will save you fifty hours
+This is a working manual, not a motivational book. It is built to be used with a
+notebook open beside it, and it assumes you intend to actually build something
+rather than simply read about people who did.
+The structure
+The book is organised in five parts that follow the real sequence of building a business. Part I
+covers the foundations — the mindset shift and how to choose a niche that can actually pay
+you. Part II covers building — your AI tool stack, the business model you will run, and how to
+ship a product in thirty days. Part III covers growth — marketing, pricing, and the automation
+that keeps you sane. Part IV is the part most books skip: what this actually costs, what actually
+goes wrong, and what the people who succeeded really did. Part V is execution — a complete
+worked example followed end to end, and your 90-day plan.
+The four appendices are reference material you will return to: a library of AI prompts you can
+copy directly, fill-in templates, a guide for readers operating from India, and a directory of tools
+and communities.
+Three ways to read it
+• Starting from zero. Read straight through, in order, and complete the action steps at the end
+of each chapter before moving on. Expect this to take two to three weeks at a comfortable
+pace.
+• You already have an idea. Read Chapter 3 first to pressure-test it, then jump to Part II. Come
+back to Chapter 2 if your idea does not survive the validation test — that is a feature, not a
+failure.
+• You already have a product but no customers. Start at Chapter 7. Your problem is almost
+certainly distribution, not product.
+What you will find in each chapter
+Every chapter ends with a short checklist of concrete actions. Most chapters also contain one or
+more prompt blocks — copy-paste instructions written to be pasted directly into Claude,
+ChatGPT, or any capable AI assistant. These are the single most useful thing in the book. They
+are collected together in Appendix A so you can find them quickly later.
+
+-- 5 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI HOW TO USE THIS BOOK
+6
+A note on the numbers in this book
+The revenue figures you will read here are real and verifiable, but they are the visible tail of a
+very large distribution. For every founder earning $145,000 a month there are thousands
+earning nothing, and you will not read about them. Treat these stories as proof that the ceiling
+is high, not as a forecast of your own results. Chapter 11 deals honestly with what typically
+happens instead.
+One request
+Do not read this book in one sitting and then do nothing. The gap between people who build
+something and people who do not is almost never knowledge — it is the willingness to take one
+small, concrete, slightly uncomfortable action within twenty-four hours of feeling motivated.
+Read Chapter 1, then do the first action step the same day. That single habit is worth more than
+the rest of this book combined.
+START HERE
+□ Get a dedicated notebook or document for this book. You will be writing a lot.
+□ Block two hours in your calendar this week for Chapters 1 to 3.
+□ Decide now, before you read further, what "success" would mean for you in twelve months
+— in a number.
+
+-- 6 of 114 --
+
+PART I
+Foundations
+Before the tools, before the tactics — the three things that
+determine whether any of this works.
+1 · The New Era of the Solo Founder
+2 · The Solopreneur Mindset
+3 · Finding a Niche That Pays
+
+-- 7 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI HOW TO USE THIS BOOK
+8
+CHAPTER 1
+The New Era of the Solo Founder
+Why one person can now do what took a team of twenty
+In June 2025, a company with exactly one employee sold for eighty million dollars
+in cash. It was sixteen months old. Its founder had put in less than twenty thousand
+dollars of his own money and had never raised a round. This chapter is about why
+that stopped being impossible, and what it means for you.
+The Base44 story
+Maor Shlomo was thirty-one, Israeli, and freshly out of military service when he started building
+a side project in late 2024. The idea was simple to describe and hard to execute: what if
+someone with no coding ability could build working software just by describing what they
+wanted in plain English? He called it Base44.
+He formalised it as a company in January 2025. In the early months he was pushing as many
+as thirteen production updates a day, checking his servers every two to three hours, and getting
+feedback from friends and colleagues rather than running any kind of marketing campaign. He
+posted about the work publicly as he did it. Growth came almost entirely through word of mouth
+— people used the product, liked it enough to tell others, and the loop compounded.
+By May 2025 Base44 was generating around $189,000 in monthly profit. By June it had
+crossed 300,000 users and roughly $3.5 million in annual recurring revenue, with partnerships
+including eToro and Similarweb. Wix acquired it for $80 million in cash. Shlomo had no
+co-founder and no employees.
+“If I were to do it again, I would first make sure users love the product
+to the point where they are sharing it.”
+— Maor Shlomo, founder of Base44
+That sentence is the most useful thing in this entire chapter, and we will come back to it
+repeatedly. But first, the more important question: was Shlomo a fluke?
+
+-- 8 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI THE NEW ERA OF THE SOLO FOUNDER
+9
+The data says no
+The solo founder is not a curiosity any more. It is a measurable and accelerating structural shift
+in how companies get built.
+36.3% 117,060 52.3% ~350
+of new US startups were
+solo-founded in 2025, up
+from 23.7% in 2019
+zero-employee US
+businesses crossed $1M
+revenue in 2023
+of startups that achieved an
+exit had a single founder
+unicorns founded by a single
+individual
+Solo-founded ventures rose from under a quarter of new American startups in 2019 to more
+than a third by the first half of 2025 — a 53 percent increase that maps almost exactly onto the
+period in which generative AI tools became genuinely usable. The number of American
+businesses with no employees at all that nonetheless generate over a million dollars in annual
+revenue roughly doubled between 2021 and 2023, reaching more than 117,000. Across the
+whole non-employer economy, some 29.8 million such companies now produce approximately
+$1.7 trillion in revenue, close to seven percent of US GDP.
+Perhaps the most striking figure: 77 percent of solopreneurs report being profitable in their first
+year, compared with 54 percent of businesses that employ staff. This is not because solo
+founders are better operators. It is because their cost structure is almost entirely variable and
+almost entirely small.
+What actually changed
+Four things happened at roughly the same time, and their combination is what created this
+window.
+1. The cost of producing software collapsed
+Building a functional web application in 2015 required either the ability to code or roughly
+$30,000 to pay someone who could. In 2026, tools like Replit, Lovable, Bubble, and Cursor let a
+person describe what they want and receive working software. Around 63 percent of active
+users on these "vibe coding" platforms are not developers. This is the single largest change,
+because software was historically the expensive part.
+2. The cost of producing content collapsed
+Content marketing used to require either a writer on staff or a meaningful freelance budget.
+Generative AI reduces content production time by roughly 60 to 70 percent, which means a
+single person can now sustain a publishing cadence that previously required a small team.
+Distribution, historically the hardest part of a small business, became tractable for one person.
+
+-- 9 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI THE NEW ERA OF THE SOLO FOUNDER
+10
+3. Distribution became free and direct
+A newsletter platform costs nothing to start. A LinkedIn account costs nothing. A YouTube
+channel costs nothing. Thirty years ago, reaching ten thousand relevant people required buying
+access to them through advertising or media. Today it requires being consistently useful in
+public for long enough. That is a substitution of time for capital, which is exactly the trade a
+person starting with no money needs.
+4. Payments and infrastructure became global and instant
+Stripe, Gumroad, Lemon Squeezy, Razorpay, Paddle and their competitors made it possible to
+sell to a customer in another country in an afternoon. Cloud compute is billed by the second.
+You can now start a company that serves customers on four continents without a lawyer, an
+office, or an initial investment beyond a few hundred dollars.
+The economic consequence
+A complete solopreneur software stack runs $75 to $150 per month — a 95 to 98 percent
+reduction against the equivalent staffing cost. One McKinsey analysis found AI-automated
+solo operations achieve 4.2× higher revenue per hour worked than manual workflows.
+Compute scales elastically without equity dilution, which is why solo founders retain
+dramatically more ownership than their venture-funded peers.
+The people already doing this
+Base44 is the flashiest example but it is far from the only one. A brief roll call, each covered in
+detail in Chapter 12:
+Founder Business Reported result Model
+Pieter Levels Photo AI ~$132K MRR, 87%+ net margin Micro-SaaS
+Nevo David Postiz $145K MRR, growing ~$1K MRR/day Micro-SaaS
+Justin Welsh Courses + newsletter $10M+ cumulative revenue Audience
+Dan Koe Courses + community $4M+/yr at ~98% margin Audience
+Kat Norton Miss Excel $2.9M/yr Education
+Dana Snyder Nonprofit AI consulting Hundreds of clients, 1 employee Productised service
+Note the diversity. Two of these are software products. Two are essentially media businesses
+that sell education. One is a productised consulting practice built by someone with no technical
+background at all. There is no single path here, which is good news — it means you do not need
+to be a developer, and it means the model can be adapted to whatever you already know.
+
+-- 10 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI THE NEW ERA OF THE SOLO FOUNDER
+11
+The honest limits
+It would be irresponsible to write this chapter without the counterweight, so here it is. The
+one-person model has real constraints, and pretending otherwise is how people waste two
+years.
+• AI infrastructure is not free at scale. Founders running AI-heavy products report monthly
+compute bills reaching into the hundreds of thousands of dollars at the high end — genuinely
+comparable to salaries. Your margins are excellent until they suddenly are not.
+• You cannot be expert at everything. As J.P. Eggers of NYU Stern puts it, "no one really has
+the deep, specialised knowledge you need in lots of different areas." AI narrows this gap; it
+does not close it. You will make bad decisions in the domains you know least.
+• Some industries are structurally closed to you. Anything with heavy regulatory compliance,
+physical supply chains, or enterprise sales cycles requiring a team of humans will resist a
+solo operator regardless of tooling.
+• The business is you. Shlomo was checking servers every two to three hours. If you are ill,
+exhausted, or simply need three weeks away, there is nobody to cover. This is the most
+underrated cost and Chapter 11 addresses it properly.
+• Survivorship bias is severe. You are reading about the winners because the losers do not
+get written about. The base rate of failure is high.
+What this chapter is actually claiming
+Not that building a one-person business is easy — it is not. Not that you will earn what Shlomo
+earned — you probably will not. The claim is narrower and more useful: the floor of what one
+motivated person can build without capital, staff, or permission has risen dramatically, and the
+tools required now cost less than a monthly phone bill. That is genuinely new, and it is enough.
+YOUR ACTION STEPS
+□ Write down, in one sentence, what you would build if you knew it would work.
+□ Look up two of the founders in the table above and read something they wrote in their own
+words.
+□ Calculate your current monthly personal expenses. That number is your real target — not a
+million dollars.
+□ Identify the single biggest reason you have not started yet. Write it down honestly.
+
+-- 11 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI THE NEW ERA OF THE SOLO FOUNDER
+12
+CHAPTER 2
+The Solopreneur Mindset
+The operating system underneath everything else
+Almost everyone who fails at this fails for psychological reasons rather than
+technical ones. They pick a niche and abandon it in week six. They build for four
+months without showing anyone. They price at a third of what they are worth
+because asking felt rude. None of these are knowledge problems. This chapter is
+about the operating system that prevents them.
+The core reframe: you are not a worker, you are an architect
+Most of us are trained into employment. Someone assigns work, you complete it, you are paid
+for the completion. The feedback loop is short and the definition of a good day is clear. Running
+a one-person company breaks all of this. You are simultaneously responsible for strategy,
+product, marketing, sales, support, finance, and administration, and on most days nobody will
+tell you whether you did well.
+The reframe that resolves this: your job is not to do the work. Your job is to design systems
+that produce the work. You are an architect, not a labourer. AI is not your assistant — it is a
+component in the machine you are building. Every hour you spend doing something a system
+could do is an hour stolen from designing the system.
+“Solopreneurs don't need more motivation. They need fewer
+decisions.”
+— Anfernee Chansamooth, Solopreneur Code
+That line deserves unpacking, because it is the practical core of solo operating. Motivation is
+not a renewable resource you can schedule. Decision capacity is finite and depletes through the
+day. The founders who sustain output for years are not more disciplined — they have simply
+removed most decisions from their day by making them once, in advance, and encoding them
+into routines.
+The five shifts
+
+-- 12 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI THE SOLOPRENEUR MINDSET
+13
+Shift 1 — From doing to designing
+Every task performed more than twice is a candidate for a system. The question to ask is never
+"how do I do this faster" but "how do I stop being the one who does this". Most people optimise
+the wrong layer for years.
+In practice: keep a running list titled "things I did more than once this week". Review it every Friday. Automate or
+template the top item.
+Shift 2 — From perfection to iteration
+Shlomo pushed thirteen production updates in a day. That is not carelessness — it is a
+recognition that the market, not your judgement, decides what is good, and the market can only
+tell you once something is in front of it. Perfectionism in a one-person business is almost always
+fear wearing a respectable coat.
+In practice: set a rule that nothing may be worked on for more than two weeks before someone outside your head sees
+it.
+Shift 3 — From lone wolf to orchestrator
+Solo means you own the decisions. It does not mean you work in isolation. You have AI as a
+thinking partner, contractors for specialist work, and peers for perspective. The founders who
+burn out fastest are the ones who confuse independence with isolation.
+In practice: one standing weekly conversation with another founder. Not a mastermind, not a course — one person who
+will ask what you shipped.
+Shift 4 — From hours to outcomes
+Nobody pays you for effort. The metric that matters is what changed in the world — revenue,
+users, published assets. AI compresses the relationship between hours and output so severely
+that measuring hours becomes actively misleading.
+In practice: end each week by writing down what exists now that did not exist on Monday. If the answer is nothing, the
+week was lost regardless of how busy it felt.
+Shift 5 — From fear to experimentation
+Every failed product, wrong niche, and ignored launch is information you could not have
+bought. The founders who succeed are not braver — they have simply made their experiments
+small enough that failure costs a week rather than a year.
+In practice: never commit more than 30 days to an unvalidated idea before requiring external evidence that someone
+wants it.
+
+-- 13 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI THE SOLOPRENEUR MINDSET
+14
+The daily architecture
+There is no universal correct schedule, but there is a universal correct principle: the
+highest-value creative work must happen before the day fills with reactive work, because
+reactive work expands to fill whatever space it is given. A structure that works for many solo
+operators:
+Block Time Purpose Rule
+Deep work 2–3 hrs, first thing The one thing that moves the
+business
+No email, no messages, no
+metrics
+Build / deliver 2 hrs, late morning Product work or client delivery Single project, no switching
+Reactive 1–2 hrs, afternoon Email, support, admin, calls Batched, never continuous
+Review 20 min, end of day What shipped, what is next Written, not mental
+Weekly
+review
+60 min, Friday Metrics, pruning, next week's one
+thing
+Non-negotiable
+Protect the first block above everything else
+If you protect nothing else, protect the first two hours. Almost every solo founder who sustains
+output long-term has some version of this rule, and almost every one who burns out lost it
+first. Reactive work feels productive because it produces visible motion, but it is the only
+category of work that will still be there tomorrow if you ignore it today.
+Building a resilience system
+Operating alone means every bad day is a company-wide bad day, and there is no colleague to
+absorb it. Resilience is therefore not a personality trait in this context — it is infrastructure, and it
+can be built deliberately.
+Anchor routines
+A fixed start and a fixed stop. The stop matters more than the start. Without a defined end to the
+working day, work bleeds into every hour you are awake, and the quality of both the work and
+the rest degrades. Choose a time. Honour it on the days it is inconvenient, which is the only test
+that counts.
+Decision frameworks
+Pre-decide the recurring questions so they stop consuming capacity. Which clients do you
+accept? What is your minimum price? Which opportunities do you decline automatically? Write
+these down once. When the situation arises, you are consulting a rule rather than making a
+judgement, which costs almost nothing.
+
+-- 14 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI THE SOLOPRENEUR MINDSET
+15
+Peer accountability
+One person who knows what you are working on and will ask about it. This is the single
+highest-return relationship in solo business and it costs one conversation a week. Indie
+Hackers, build-in-public communities on X, and niche Discord servers are where these
+relationships form.
+Strategic pruning
+One solopreneur documented cutting his product catalogue from over sixty items to around
+thirty, and described the result not as loss but as focus, bandwidth, and conviction. Every active
+project consumes attention even when you are not working on it. Killing things is a core
+competency, not an admission of failure.
+Separating identity from results
+A bad revenue month is information about a market, not a verdict on your worth. This sounds
+like a platitude until the third bad month, at which point it becomes the only thing standing
+between you and quitting. Founders who fuse their self-worth to their metrics do not last,
+because the metrics are volatile and the self-worth is not supposed to be.
+“Less isn't lazy. It's often the bravest decision.”
+— Anfernee Chansamooth
+Using AI as a thinking partner, not a shortcut
+A pattern worth adopting early: use AI to pressure-test your reasoning rather than to replace it.
+The failure mode is asking AI what you should do and accepting the answer. The productive
+mode is stating your plan and asking it to attack the plan. The second produces better decisions
+and, importantly, keeps the judgement muscle in your hands where it belongs.
+
+-- 15 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI THE SOLOPRENEUR MINDSET
+16
+PROMPT — PRESSURE-TEST A DECISION
+I am a solo founder considering the following decision:
+[DESCRIBE THE DECISION AND YOUR CURRENT REASONING IN 3-5 SENTENCES]
+Do not tell me it is a good idea. Instead:
+1. List the three strongest arguments AGAINST this decision.
+2. Identify the assumptions I am making that I have not stated.
+3. Describe the most likely way this fails in the next 90 days.
+4. Tell me what evidence I could gather this week that would
+change my mind either way.
+Be direct. I would rather be corrected now than in six months.
+Use this before any decision that costs more than a week of your time.
+YOUR ACTION STEPS
+□ Write down your three recurring tasks. For each, decide: eliminate, automate, delegate, or
+keep.
+□ Choose your daily stop time and put it in your calendar as a recurring block.
+□ Write your three decision rules: minimum price, ideal client, automatic decline.
+□ Message one founder this week and propose a weekly fifteen-minute check-in.
+□ Run the pressure-test prompt above on whatever you are currently unsure about.
+
+-- 16 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI THE SOLOPRENEUR MINDSET
+17
+CHAPTER 3
+Finding a Niche That Pays
+The decision that determines whether anything else matters
+You can execute perfectly against the wrong market and end with nothing. Niche
+selection is the highest-leverage decision in this book, and it is the one most people
+rush because it feels like preparation rather than progress. It is not preparation. It is
+the work.
+What a niche actually is
+A niche is not a topic. "Fitness" is a topic. "Strength programming for men over forty returning
+after injury" is a niche. The difference is that the second describes a specific person in a
+specific situation with a specific problem, which means you can find them, speak to them in
+language they recognise, and build something that fits their circumstances exactly.
+The instinct to stay broad comes from a fear of shrinking the market. This is backwards for a
+solo operator. You are not trying to reach everyone; you are trying to be the obvious choice for
+a group small enough that you can dominate it and large enough to pay you. For most solo
+businesses, a market of a few thousand reachable people is entirely sufficient.
+The arithmetic that makes narrow niches work
+One thousand people who genuinely have your problem, of whom two percent buy a $500
+product, is $10,000. Two hundred subscribers paying $40 a month is $8,000 monthly and
+$96,000 a year. Twelve consulting clients at $2,000 a month is $288,000 a year. None of
+these require a large market. They require a specific one.
+The three-circle test
+A workable niche sits where three conditions overlap. Miss any one and the business is much
+harder than it needs to be.
+
+-- 17 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI FINDING A NICHE THAT PAYS
+18
+Condition The question to ask How to tell it is missing
+Painful problem Are people actively spending time or money
+trying to solve this right now?
+People find it interesting but have never
+searched for a solution
+Willingness to pay Does money already move in this category,
+and does the buyer control a budget?
+Everyone loves the idea; nobody has
+ever paid for anything similar
+Your advantage Do you have expertise, access, unusual
+insight, or credible experience here?
+You would be learning the domain and
+the business simultaneously
+The third circle is the one people skip. Building a business in a domain you do not understand
+means you cannot tell a real problem from a fake one, you cannot write copy that resonates,
+and you have no credibility with buyers. You do not need to be the world expert. You need to be
+roughly two years ahead of the person you are serving, which is a much lower bar and one most
+people already clear somewhere.
+The five-step research process
+This takes a weekend, not a quarter. Do it properly once rather than badly three times.
+Step 1 — Generate candidates from what you already know
+Start from your own experience rather than from market trends. List every job you have held,
+every skill you have been paid for, every hobby you have gone deep on, and every problem you
+have personally solved for yourself. Each of these is a potential niche because in each you have
+the third circle already.
+
+-- 18 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI FINDING A NICHE THAT PAYS
+19
+PROMPT — GENERATE NICHE CANDIDATES
+I want to build a one-person business. Here is my background:
+Work experience: [LIST ROLES AND YEARS]
+Skills I have been paid for: [LIST]
+Things I know unusually well: [LIST]
+Problems I have solved for myself: [LIST]
+Generate 20 specific niche opportunities where my background gives
+me a credible advantage. For each one give me:
+- The specific person (role, situation, not a demographic)
+- The painful problem they have
+- Evidence that people already pay to solve this
+- Why my background makes me credible to them
+Be specific. "Small business owners" is not a person.
+"Solo dental practice owners handling their own billing" is.
+Run this three or four times with different emphasis. Keep the candidates that make you slightly uncomfortable — that
+usually means specific.
+Step 2 — Validate direction with trend data
+Take your best five candidates to Google Trends, Exploding Topics, and Glimpse. You are not
+looking for explosive growth — you are looking for stability or gentle growth over three to five
+years. A declining curve means you would be fighting the market. A vertical spike often means a
+fad that will be gone before you finish building.
+Step 3 — Mine communities for real language
+This step produces more value than the other four combined, and almost nobody does it
+properly. Find the places your candidate audience actually gathers — subreddits, Facebook
+groups, Discord servers, niche forums, the comment sections of relevant YouTube channels.
+Read for two hours. Copy every complaint, question, and frustrated post into a document
+verbatim.
+The exact words people use to describe their problems are the exact words that should appear
+on your landing page. This is the difference between copy that converts and copy that sounds
+like every other website in the category.
+
+-- 19 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI FINDING A NICHE THAT PAYS
+20
+PROMPT — ANALYSE COMMUNITY PAIN POINTS
+Below are real posts and comments from [COMMUNITY NAME], where
+[TARGET AUDIENCE] gather. Analyse them and tell me:
+1. The five most frequently expressed frustrations, ranked
+2. The exact phrases people use to describe each one
+3. Which frustrations appear to cost them money or significant time
+4. What they have already tried and why it did not work
+5. Any problem that appears repeatedly but has no obvious
+existing solution
+Quote their actual language. Do not paraphrase into marketing speak.
+POSTS:
+[PASTE 30-50 POSTS OR COMMENTS HERE]
+Step 4 — Study the competition properly
+Competition is a positive signal. It proves money moves in this category and that you do not
+have to educate the market on why the problem matters. What you are looking for is not an
+empty market but an underserved segment inside a proven one — the customers existing
+products treat as an afterthought.
+• Read one-star and three-star reviews of competing products. Three-star reviews are the
+most valuable text on the internet for this purpose: the customer wanted to like it and can
+articulate precisely why they could not.
+• Identify who each competitor is clearly built for, then ask who is buying it despite not being
+that person. That group is your opportunity.
+• Check pricing. If everyone charges $9/month, the category may have a ceiling. If prices
+range from $9 to $500, there is room to position.
+Step 5 — Test willingness to pay before building
+This is the step that separates people who build businesses from people who build projects.
+Before you write code or record a course, you need evidence that someone will part with
+money. Ranked from weakest to strongest signal:
+
+-- 20 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI FINDING A NICHE THAT PAYS
+21
+Signal What it proves Strength
+Survey response saying "I would buy this" Almost nothing Very weak
+Email waitlist signup Mild interest, low cost to give Weak
+A scheduled call to discuss the problem The problem is real to them Moderate
+Pre-order or deposit, even $10 Genuine intent Strong
+Payment for a manual version you deliver
+by hand
+The business works Decisive
+The manual-first test
+The strongest possible validation is to deliver the outcome manually, by hand, for money,
+before building anything. If you plan to build software that generates social media content,
+first sell five people a month of content that you produce yourself with AI assistance. If they
+pay, you have proven demand, learned the workflow in detail, and earned revenue that funds
+the build. If they do not pay, you have saved three months.
+Scoring your candidates
+Run each surviving candidate through this scorecard. Score each criterion from 1 to 5, then
+total. Anything under 24 out of 40 is likely to be painful; anything over 32 is worth committing to.
+# Criterion Score 1 Score 5
+1 Problem urgency Mild annoyance Costs them money weekly
+2 Willingness to pay No precedent Already paying competitors
+3 Your credibility Complete outsider Genuine domain experience
+4 Audience reachability Scattered, no venue Concentrated in known places
+5 Market size Under 500 people Tens of thousands reachable
+6 Competition quality Dominated by giants Weak or generic incumbents
+7 Delivery feasibility Needs a team You can deliver alone with AI
+8 Your genuine interest Would bore you in a month Could do this for five years
+
+-- 21 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI FINDING A NICHE THAT PAYS
+22
+Niche scorecard — fill this in
+Candidate niche (the specific person and their problem):
+......................................................................................................................
+Where do they gather? (list 3 specific places)
+......................................................................................................................
+What are they already paying for?
+......................................................................................................................
+Total score out of 40:
+......................................................................................................................
+
+-- 22 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI FINDING A NICHE THAT PAYS
+23
+Categories that suit solo operators in 2026
+Category Why it works for one person Typical range
+Vertical micro-SaaS Narrow scope, predictable revenue, low support burden $5K–$50K MRR
+Productised service Fastest to revenue; AI multiplies delivery capacity $3K–$15K/mo
+Professional
+education
+Very high margin, no inventory, global market $10K–$100K/yr
+Automation consulting Huge demand, low tooling barrier, retainer revenue $2K–$10K/client
+Niche media +
+products
+Compounds; owns distribution permanently $2K–$25K/mo
+AI-native tooling Small workflows AI now makes solvable $3K–$30K MRR
+The passion trap
+The most common failure in niche selection is choosing something you find personally
+fascinating without checking whether anyone pays to solve problems in it. Passion is
+genuinely necessary — it is what carries you through month seven — but it is a tiebreaker, not
+a criterion. Choose from the set of niches that pay, and within that set pick the one you find
+most interesting. Not the other way around.
+When to abandon a niche
+Commitment matters, but so does honesty. Reasonable grounds to move on: you have spoken
+to twenty people in the target market and none described the problem without being prompted;
+you have published consistently for ninety days with no organic engagement whatsoever; you
+have offered the solution for money to fifteen qualified people and nobody bought.
+Unreasonable grounds: it has been three weeks and it feels slow. Almost everything feels slow
+at three weeks.
+
+-- 23 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI FINDING A NICHE THAT PAYS
+24
+YOUR ACTION STEPS
+□ Complete Step 1 today: list your roles, paid skills, deep knowledge, and self-solved
+problems.
+□ Run the niche generation prompt and select your five strongest candidates.
+□ Spend two hours in communities. Copy fifty verbatim complaints into a document.
+□ Score your top three candidates on the eight-criterion scorecard.
+□ Book three conversations with people in your leading niche this week. Ask about the
+problem — do not pitch.
+
+-- 24 of 114 --
+
+PART II
+Building
+Your tools, your business model, and getting something
+real in front of a paying human being.
+4 · Your AI Tool Stack
+5 · The Five Business Models
+6 · Building and Launching in 30 Days
+
+-- 25 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI FINDING A NICHE THAT PAYS
+26
+CHAPTER 4
+Your AI Tool Stack
+Assembling a virtual company for the price of a phone bill
+The correct number of tools is far smaller than you think. Most new solopreneurs
+subscribe to a dozen products in their first month, use three of them badly, and
+conclude that AI is overhyped. The founders getting real leverage typically run four
+or five tools that they understand deeply. This chapter is about which ones and,
+more importantly, why.
+The principle: buy capability, not software
+Think of your stack as a set of roles you are filling rather than a set of products you are
+purchasing. A one-person business needs a thinking partner, a connective layer that moves
+information between systems, somewhere to keep its knowledge, a way to produce visuals, and
+a way to establish facts. Five roles. Almost everything else is a specialisation you add later
+when a specific bottleneck appears.
+Add tools only in response to pain
+The correct trigger for adding a tool is a sentence of the form: "I lose four hours every week
+doing X, and this tool removes three of them." If you cannot complete that sentence with a
+specific number, you are collecting rather than building. Collecting feels like progress and is
+not.
+The core five
+
+-- 26 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI YOUR AI TOOL STACK
+27
+THE THINKING PARTNER
+Claude or ChatGPT
+$20/month
+This is the tool you will use for eighty percent of everything: drafting, editing, research
+synthesis, strategy pressure-testing, customer emails, code assistance, analysing
+feedback, and structured thinking. Claude handles very long documents and careful
+reasoning well, with a large context window that lets you paste entire documents in for
+analysis. ChatGPT has the broader plugin ecosystem, native image generation, and voice.
+Many founders run both; if you run one, choose based on which produces writing that
+sounds more like you with less editing.
+Start here. If you buy nothing else, buy this.
+THE CONNECTIVE TISSUE
+Zapier or Make
+$20–30/month
+Automation platforms move information between your other tools without you touching
+anything. A payment arrives and a customer record is created, a welcome sequence starts,
+and a task appears in your project board. Zapier is simpler and has around 7,000
+integrations; Make handles complex branching logic better but takes longer to learn. For a
+self-hosted, free alternative with a steeper curve, n8n is excellent.
+Buy this the moment you have your first repeated manual workflow.
+THE COMPANY BRAIN
+Notion
+Free–$20/month
+Every business accumulates knowledge — strategy documents, customer notes, content
+calendars, standard procedures, project plans. Without a single home, that knowledge
+lives in your head, which means it is unavailable when you are tired and lost when you are
+ill. Notion is the most common choice; the specific tool matters far less than having exactly
+one.
+Free tier is genuinely sufficient for a long time.
+
+-- 27 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI YOUR AI TOOL STACK
+28
+THE DESIGN DEPARTMENT
+Canva
+Free–$13/month
+Social graphics, lead magnets, course slides, ad creative, product mockups, and covers.
+Canva's AI features generate complete templated designs from a text description, which
+removes the need for design skill entirely at the quality level most solo businesses require.
+Free tier covers most needs; upgrade for brand kits and background removal.
+THE RESEARCH ANALYST
+Perplexity
+Free–$20/month
+Cited, current answers rather than confident guesses. Use it before writing anything
+factual, entering a new market, or making a claim in your marketing. The citation trail
+matters — it lets you verify rather than trust, which is the correct relationship to have with
+any AI output.
+The free tier is adequate for most research volume.
+Specialist additions
+Add these only when the relevant bottleneck is real and measurable.
+
+-- 28 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI YOUR AI TOOL STACK
+29
+If you are building software
+Tool What it does Cost
+Cursor AI-native code editor; inline edits, codebase-wide chat, refactors.
+Reported 30–50% saving on routine coding.
+$20/mo
+Replit Build and deploy in the browser with AI assistance. Used by
+non-technical founders to ship real products.
+Free–$25/mo
+Lovable /
+Bubble
+Describe an app in plain language and get working software. No-code
+and vibe-code builders.
+$20–$40/mo
+RunPod GPU compute billed per second, materially cheaper than AWS or GCP for
+model inference.
+Pay per use
+
+-- 29 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI YOUR AI TOOL STACK
+30
+If you are producing content
+Tool What it does Cost
+ElevenLabs AI voice for narration, podcasts, and multilingual audio at broadcast
+quality.
+$5–$22/mo
+Descript Edit video and audio by editing the transcript. Removes filler words
+automatically.
+$12–$24/mo
+Postiz / Buffer Schedule and publish across many platforms from one workflow. Postiz
+covers 30+ channels.
+$19–$29/mo
+Beehiiv / Kit Newsletter platform with growth tooling, referrals, and monetisation built
+in.
+Free–$49/mo
+
+-- 30 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI YOUR AI TOOL STACK
+31
+If you are running a service business
+Tool What it does Cost
+Lindy AI agents for inbox triage, meeting follow-up, and CRM hygiene. Free–$49/mo
+Granola /
+Otter
+Call recording with structured summaries and extracted action items. $15–$25/mo
+Cal.com /
+Calendly
+Scheduling without the coordination emails. Free–$15/mo
+Stripe /
+Razorpay
+Payments, invoicing, subscriptions, and dunning. See Appendix C for
+India.
+~1–3% per txn
+
+-- 31 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI YOUR AI TOOL STACK
+32
+Three stacks by stage
+Stage Stack Monthly When you are here
+Testing One AI assistant + free tiers of Notion and
+Canva
+$0–$20 You have not validated
+anything yet
+Operating AI assistant + Zapier + Notion + Canva +
+Perplexity
+$50–$90 You have customers and
+repeated workflows
+Scaling Above + Cursor or Descript + scheduling +
+agents
+$130–$220 Revenue is consistent and a
+bottleneck is costing you real
+hours
+The spending ceiling
+Do not exceed roughly $200 a month on tooling until you have consistent revenue. This is not
+frugality for its own sake — it is that tool spending is the easiest possible substitute for the
+uncomfortable work of talking to customers and selling things. A founder with an elaborate
+stack and no customers has usually been avoiding something.
+Getting genuinely good at the AI assistant
+The gap between people who find AI transformative and people who find it disappointing is
+almost entirely about how they use it. Four habits close most of that gap.
+Give it context before you give it a task
+A request with no context produces generic output, which you then reject, concluding the tool is
+weak. Front-load who you are, who the audience is, what you are trying to achieve, and what
+good looks like. A prompt that takes ninety seconds to write produces output you can actually
+use.
+Ask for critique, not just production
+AI is often more valuable as an editor than as a writer. Draft badly and quickly yourself, then ask
+for a structural critique. This preserves your voice, which is the thing that actually differentiates
+you, while still getting the speed benefit.
+Build a reusable prompt library
+Any prompt you have written twice should be saved. Over a year this becomes a genuine
+operational asset — a set of encoded procedures that produce consistent output. Appendix A
+contains a starter library you can adapt.
+
+-- 32 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI YOUR AI TOOL STACK
+33
+Verify anything that matters
+AI produces confident, fluent, plausible errors. Treat every factual claim, statistic, legal
+statement, and calculation as unverified until you have checked it. The reputational cost of
+publishing a fabricated statistic is far higher than the time cost of checking it.
+PROMPT — SET UP YOUR STANDING CONTEXT
+I am going to work with you regularly. Here is my context — please
+keep it in mind for everything in this conversation.
+BUSINESS: [what you sell, to whom]
+AUDIENCE: [the specific person, their situation, their problem]
+MY VOICE: [direct/warm/technical/irreverent — and 2 examples
+of phrasing you would and would not use]
+GOAL THIS QUARTER: [one specific measurable objective]
+CONSTRAINTS: [time available, budget, skills you lack]
+When I ask for writing, match my voice rather than a generic
+professional register. When I ask for advice, prioritise things
+I can execute alone this week over strategies requiring a team.
+If a request is based on a bad assumption, say so first.
+Paste this at the start of any substantial working session. It changes output quality more than any other single habit.
+YOUR ACTION STEPS
+□ Pick one AI assistant and commit to it for thirty days. Do not evaluate alternatives during
+that time.
+□ Write and save your standing context prompt today.
+□ Identify one repeated manual workflow and build a single Zapier automation for it this
+week.
+□ Cancel any subscription you have not opened in the last fourteen days.
+
+-- 33 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI YOUR AI TOOL STACK
+34
+CHAPTER 5
+The Five Business Models
+Choosing the shape of the machine before you build it
+Business models differ enormously in how quickly they pay, how much they
+compound, and how much of your time they consume forever. Choosing badly
+means either starving while you wait for a slow model to mature, or building
+something that can never detach from your hours. This chapter is about choosing
+deliberately.
+The two axes that matter
+Every model in this chapter can be placed on two dimensions. The first is time to first revenue
+— how long before money arrives. The second is decoupling — how much revenue can grow
+without your hours growing with it. Services pay immediately and decouple poorly. Software
+pays slowly and decouples completely. Neither is superior; they are different trades, and the
+right answer usually involves starting on one and migrating toward the other.
+Model First revenue Decoupling Skill required Ceiling
+Productised
+service
+Days Low Existing professional skill Your capacity
+Automation
+agency
+Days–weeks Low–medium Systems thinking Your capacity
+Digital products 1–4 months High Teaching, domain depth Very high
+Micro-SaaS 3–9 months Very high Building or vibe-coding Unlimited
+Audience business 6–18 months High Consistent communication Audience-bound
+
+-- 34 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI THE FIVE BUSINESS MODELS
+35
+MODEL 1
+The Productised Service
+You deliver a specific, well-defined outcome for a fixed price on a fixed timeline, using AI
+to compress the delivery work dramatically. Not hourly consulting — a defined package
+with a defined deliverable.
+• Fastest possible path to revenue. You can sell this in week one with no product built.
+• AI genuinely multiplies delivery capacity here: research, drafting, analysis, and reporting all
+compress.
+• Every engagement teaches you the customer's problem in depth, which is the raw material
+for a product later.
+• Requires no audience, no code, and no upfront investment beyond your own time.
+Examples: an SEO content package delivered monthly; a financial model built to spec; a brand identity system; a
+technical audit with a written remediation plan.
+Best for: anyone with an existing professional skill. This is the correct starting point for the large majority of
+readers, including those who ultimately want to build software. It funds the build and validates the market
+simultaneously.
+MODEL 2
+The Automation Agency
+You build AI and automation workflows for other businesses — connecting their tools,
+removing their manual processes, deploying agents — and charge a setup fee plus an
+ongoing retainer for maintenance and improvement.
+• Demand substantially exceeds supply. Most businesses know they should automate and
+have nobody who can.
+• The retainer component produces recurring revenue without the multi-month build of a
+SaaS.
+• The technical barrier is low: Zapier, Make, and n8n require logic rather than programming.
+• Typical economics: $2,000–$10,000 setup plus $500–$2,000 monthly retainer per client.
+Ten retainer clients at $1,500 is $180,000 a year, which is achievable within twelve to eighteen months of
+consistent outreach.
+Best for: systems thinkers who enjoy diagnosing messy processes. Also an excellent bridge business — it
+pays well while you build something with a higher ceiling.
+
+-- 35 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI THE FIVE BUSINESS MODELS
+36
+MODEL 3
+Digital Products and Courses
+You package what you know into a course, template set, playbook, or toolkit. Built once,
+sold indefinitely, delivered automatically.
+• Margins of 90 to 99 percent. No inventory, no delivery cost, no marginal cost per sale.
+• Can be launched in days on Gumroad, Podia, or Teachable — the platform is not the hard
+part.
+• Compounds powerfully when paired with an audience: each new subscriber is a future
+buyer.
+• Examples: Kat Norton built Miss Excel to $2.9M/year; Justin Welsh has passed $10M
+cumulative.
+The common failure is building a large course before establishing that anyone wants it. Sell a live cohort first —
+the same content, delivered manually — then record it.
+Best for: people with genuine domain expertise who enjoy explaining things. Note that "expertise" here
+means two years ahead of your buyer, not world-class.
+MODEL 4
+Micro-SaaS
+A narrow software product solving one specific problem for one specific audience, sold by
+subscription. Deliberately small in scope — the opposite of a platform.
+• The strongest decoupling of any model: revenue grows without your hours growing.
+• Recurring revenue makes the business predictable and, eventually, sellable.
+• Vibe-coding tools mean non-developers can now build this. 63% of their users are
+non-technical.
+• Examples: Postiz at $145K MRR; Photo AI at ~$132K MRR with 87%+ net margins.
+The trade is time: expect three to nine months before meaningful revenue, and expect the first version to be
+wrong. Support burden is real and grows with users.
+Best for: builders with patience and, ideally, an existing audience or service business generating cash while
+the product matures.
+
+-- 36 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI THE FIVE BUSINESS MODELS
+37
+MODEL 5
+The Audience Business
+You build a following around a specific topic through consistent publishing — newsletter,
+video, or social — and monetise through products, sponsorship, community membership,
+and affiliate revenue.
+• Owns its distribution permanently. Every other model depends on renting attention; this one
+owns it.
+• Extremely high margins. Dan Koe reports roughly 98 percent at $4M+ annually.
+• Compounds more than any other model — audience assets appreciate rather than
+depreciate.
+• Costs almost nothing to start: the input is consistency, not capital.
+The trade is severe: six to eighteen months before meaningful money, and the first six months feel like shouting
+into a void. Most people quit here.
+Best for: people who can sustain output without external validation for a long time, and who have something
+genuinely distinctive to say.
+The stacking sequence
+The most financially resilient solo businesses are not single-model. They stack, and the order
+matters. A sequence that repeatedly works:
+Phase What you do Why this order
+Months 1–6 Productised service in your niche Immediate revenue, deep customer knowledge,
+zero build risk
+Months 3–12 Publish consistently about the work Builds distribution using material the service
+generates anyway
+Months 9–18 Package the repeated engagement into a
+product
+You now know exactly what to build and have
+buyers waiting
+Months 18+ Automate delivery; raise service prices Product income allows you to serve fewer,
+better-paying clients
+Justin Welsh followed almost exactly this arc: consultant, then LinkedIn publisher, then course
+seller — reaching $1M cumulative in twenty-nine months and $10M+ by 2025. The publishing
+was fuelled by the consulting, and the courses were fuelled by the publishing.
+
+-- 37 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI THE FIVE BUSINESS MODELS
+38
+Choose one to start. Only one.
+The temptation is to start a service, a newsletter, and a product simultaneously because each
+is individually cheap to begin. Do not. A solo operator running three unvalidated initiatives will
+do all three badly and learn nothing conclusive from any of them. Pick the one that matches
+your situation, run it for ninety days, and add the second only when the first has a repeatable
+process.
+Model selection — decide now
+Which model am I starting with, and why is it right for my situation?
+......................................................................................................................
+What is my target date for first revenue?
+......................................................................................................................
+Which model am I stacking second, and roughly when?
+......................................................................................................................
+YOUR ACTION STEPS
+□ Choose your starting model and write one sentence explaining why it fits your situation.
+□ If you chose a service model, define your first package: outcome, timeline, and price.
+□ Write down the date by which you intend to collect your first payment.
+□ Identify which model you will stack second, and what has to be true before you start it.
+
+-- 38 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI THE FIVE BUSINESS MODELS
+39
+CHAPTER 6
+Building and Launching in 30 Days
+Ship something real before you lose your nerve
+The characteristic failure of first-time founders is building in private for months and
+emerging with a polished product that nobody wants and nobody has heard of. This
+chapter is a thirty-day structure designed specifically to make that impossible.
+Why thirty days
+Not because everything worthwhile can be built in a month — it cannot. The constraint exists
+because a deadline forces scope decisions that would otherwise be avoided indefinitely, and
+because motivation has a half-life. The version of you that is excited today will not be around in
+four months if nothing has happened. Thirty days is long enough to build something real and
+short enough to stay excited.
+The schedule
+Days 1–5
+Validate
+No building. This week exists to establish that the problem is real and that someone will
+pay. Have ten conversations with people in your target market — not pitches,
+conversations. Ask what they currently do about the problem, what they have tried, and
+what it costs them. Put up a single landing page describing the outcome and collect email
+addresses. If ten conversations produce no recognition of the problem, stop and return to
+Chapter 3. That is a successful week, not a failed one.
+Deliverable: ten conversation notes and a live landing page.
+
+-- 39 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI BUILDING AND LAUNCHING IN 30 DAYS
+40
+Days 6–12
+Build the smallest useful version
+The scope rule: your first version should do one thing, for one person, in one situation. Not
+a platform — a single working outcome. Use AI to generate first drafts of everything:
+interface copy, code, structure, onboarding text. Manual is acceptable and often
+preferable — if the customer receives the outcome, they do not care that you produced it
+by hand. Set a hard rule that if a feature is not required for the core outcome, it does not
+exist in version one.
+Deliverable: something a stranger could use and receive value from.
+Days 13–19
+Ten founding users
+Still no public launch. Take the ten people from week one and give them access, free or
+heavily discounted, in exchange for honest feedback. Watch them use it if you possibly
+can — you will learn more from three minutes of watching someone get stuck than from
+thirty survey responses. Shlomo started with friends and colleagues before any public
+launch, and treated their reactions as the primary signal.
+Deliverable: ten people who have actually used it, and written notes on where they struggled.
+Days 20–25
+Iterate on what you learned
+Fix the top three to five issues. Not everything requested — the things that stand between
+a user and the outcome. The test to apply: would any of these ten people recommend this
+to a colleague without being asked? If the answer is no, you are not ready to launch, and
+launching louder will not fix it.
+Deliverable: a version at least one person has voluntarily recommended.
+
+-- 40 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI BUILDING AND LAUNCHING IN 30 DAYS
+41
+Days 26–30
+Launch publicly
+Product Hunt, your newsletter, LinkedIn, X, relevant subreddits and communities where
+you have been a genuine participant. Write the launch as a story rather than an
+announcement — what problem you noticed, what you tried, what your first users said.
+Your founding users' words are more persuasive than anything you can write about
+yourself. Email everyone on your waitlist personally.
+Deliverable: a public launch and your first non-founding customer.
+Scoping ruthlessly
+The single most useful skill in week two is deciding what not to build. A test that works: for
+every proposed feature, ask whether a customer would refuse to pay without it. If they would
+still pay, it is not in version one. Accounts, settings pages, dashboards, integrations, and dark
+mode are almost never required for a customer to receive the core outcome.
+PROMPT — CUT YOUR SCOPE
+I am building the first version of [PRODUCT] for [SPECIFIC USER].
+The core outcome they want is: [OUTCOME].
+Here is everything I was planning to build:
+[LIST EVERY FEATURE]
+Act as a ruthless product manager whose only goal is shipping in
+7 days. For each feature tell me: KEEP (required for the core
+outcome), FAKE (can be done manually behind the scenes at first),
+or CUT (not needed until at least 100 users).
+Then describe the smallest version that still delivers the
+outcome, and estimate how long it would take to build.
+Be aggressive. I would rather ship something embarrassing
+than ship nothing.
+
+-- 41 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI BUILDING AND LAUNCHING IN 30 DAYS
+42
+Building without being a developer
+Vibe coding — describing software in plain language and receiving working code — has
+removed the technical barrier for a large class of products. Dana Snyder built an AI-powered
+consulting platform for nonprofits on Replit with no technical background whatsoever; it now
+serves hundreds of clients and she remains its only full-time employee. Around 63 percent of
+people actively using these tools are not developers.
+The realistic assessment: these tools work very well for standard web applications with
+common patterns — forms, dashboards, content, payments, user accounts. They struggle with
+genuinely novel technical problems, heavy data processing, and anything requiring careful
+security design. For the large majority of first products, that limitation will not bind.
+What to build with, by situation
+• Software product, non-technical: Replit, Lovable, or Bubble.
+• Software product, some coding ability: Cursor with a standard framework.
+• Digital product or course: Gumroad or Podia. Do not build a custom platform.
+• Newsletter: Beehiiv or Kit. Never build this yourself.
+• Service business: A one-page site, a scheduling link, and an invoice. Nothing else.
+Writing a launch that people read
+Most launch posts fail because they describe the product. Effective launch posts describe the
+problem, in the reader's own language, and only then mention that something now exists which
+solves it. The structure that consistently works:
+1. The problem, stated as the reader experiences it — specific, concrete, ideally slightly painful
+to read.
+2. What you tried first and why it did not work. This establishes credibility and is the part
+people actually enjoy.
+3. What you built, described in terms of outcome rather than features.
+4. What your first users said, quoted directly.
+5. A single, clear, low-friction call to action.
+
+-- 42 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI BUILDING AND LAUNCHING IN 30 DAYS
+43
+PROMPT — DRAFT YOUR LAUNCH POST
+Write a launch post for [PLATFORM: Product Hunt / LinkedIn / X].
+Product: [WHAT IT DOES]
+For: [SPECIFIC USER]
+Problem it solves: [IN THEIR WORDS, FROM YOUR RESEARCH]
+What I tried before building it: [YOUR STORY]
+What early users said: [ACTUAL QUOTES]
+My voice: [DIRECT / WARM / TECHNICAL / DRY]
+Structure it as: problem → what I tried → what I built →
+what users said → one clear call to action.
+Rules: no hype words, no "excited to announce", no emoji walls.
+Lead with the problem, not the product. Write like a person
+telling a friend what they have been working on.
+What to expect
+Your launch will almost certainly underperform your expectations. Product Hunt will not change
+your life. Most launches produce a small spike followed by silence. This is normal and is not a
+verdict on the product. The businesses in this book were built by sustained distribution over
+months, not by a single launch day — Postiz grew by roughly $1,000 MRR per day through
+accumulated word of mouth, not a viral moment.
+YOUR ACTION STEPS
+□ Book five conversations for this week. Do not build anything until they are done.
+□ Put up a landing page within 48 hours, even if it is a single paragraph and an email field.
+□ Run the scope-cutting prompt and delete at least half your planned features.
+□ Set your launch date now and tell at least one person what it is.
+
+-- 43 of 114 --
+
+PART III
+Growth
+Getting found, getting paid properly, and building the
+systems that let one person carry it all.
+7 · Distribution and Marketing
+8 · Pricing and Monetisation
+9 · Operations and Automation
+
+-- 44 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI BUILDING AND LAUNCHING IN 30 DAYS
+45
+CHAPTER 7
+Distribution and Marketing
+The unfair advantage nobody can take from you
+A mediocre product with excellent distribution beats an excellent product with
+none, every time, and it is not close. Most solo founders discover this after building
+something good that nobody ever sees. This chapter is about building the
+distribution first, or at minimum alongside.
+The one asset that compounds
+Almost everything in a business depreciates. Code rots, tactics stop working, ad platforms raise
+prices, algorithms change. One asset appreciates: a group of people who know who you are,
+trust your judgement, and have given you permission to contact them. Every product you ever
+launch will be launched to that group. Every pivot will be survivable because of it.
+This is why the audience business in Chapter 5 was described as owning distribution while
+every other model rents it. You can rent attention through advertising for as long as you can
+afford it. You own it when ten thousand people have chosen to hear from you.
+“Document, don't create. Share your process, your thinking, your
+mistakes — people would rather follow a story than be marketed to.”
+— A principle widely attributed to Gary Vaynerchuk, adopted across the build-in-public movement
+Building in public
+Building in public means publishing the process as it happens: what you are working on, what
+broke, what you learned, what the numbers are. It works for three reasons that have nothing to
+do with virality. First, it is far easier to sustain than polished content, because the raw material is
+generated by the work you are doing anyway. Second, it accumulates an audience of people
+who are invested in the outcome before you have anything to sell. Third, it produces feedback
+early enough to change course cheaply.
+Base44 reached 300,000 users with no marketing spend, driven by word of mouth and a
+founder who documented the journey publicly rather than running campaigns. Postiz grew the
+same way. This is not a coincidence and it is not luck — it is the natural result of being visibly
+
+-- 45 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI DISTRIBUTION AND MARKETING
+46
+useful in public for long enough that people start recommending you.
+What to publish when you have nothing to show yet
+• The problem you are working on, and why it bothers you specifically.
+• What you tried that did not work — this outperforms success posts consistently.
+• Something you learned this week that would have saved you time a month ago.
+• A decision you are facing, framed as a genuine question to your audience.
+• A teardown of how someone else solved a related problem well.
+The content engine: one week in two hours
+The sustainable pattern for a solo operator is not producing content every day. It is producing
+one substantial piece and systematically deriving everything else from it. Generative AI reduces
+content production time by roughly 60 to 70 percent, which is what makes this feasible for one
+person.
+Day Activity Time Output
+Monday Write or record the cornerstone piece 90 min One newsletter, article, or
+video
+Tuesday Extract short-form pieces with AI, edit for voice 30 min 5–10 posts queued for the
+week
+Wed–Fri Scheduled publishing runs automatically 0 min Consistent presence with no
+daily effort
+Saturday Reply to comments, engage in communities 30 min Relationships and feedback
+The one thing in that table you should never automate is Saturday. Replying to people
+individually is where audiences actually form, and it is the only part AI genuinely cannot do for
+you — not because it lacks the capability, but because the value comes precisely from the fact
+that a real person spent their attention on someone.
+
+-- 46 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI DISTRIBUTION AND MARKETING
+47
+PROMPT — EXTRACT A WEEK OF CONTENT FROM ONE PIECE
+Below is a long-form piece I wrote. Extract short-form content
+from it for the coming week.
+MY AUDIENCE: [SPECIFIC PERSON AND SITUATION]
+MY VOICE: [DESCRIPTION + 2 SAMPLE SENTENCES]
+PLATFORMS: [LINKEDIN / X / INSTAGRAM / etc.]
+Produce:
+- 3 LinkedIn posts (150-250 words, one idea each, no hashtag spam)
+- 2 X threads (5-7 posts, strong first line)
+- 1 short-video script (45 seconds, hook in first 3 seconds)
+Rules:
+- Each piece must stand alone and be useful without the original
+- Use my actual phrasing where possible, not generic LinkedIn voice
+- No "Here is the thing:" / "Let that sink in" / engagement bait
+- Lead with the specific, not the abstract
+SOURCE PIECE:
+[PASTE YOUR CORNERSTONE CONTENT]
+Choosing your channel
+One channel, chosen deliberately, worked for ninety days. Not five channels worked
+inconsistently. The choice should follow your audience and your natural format, in that order.
+
+-- 47 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI DISTRIBUTION AND MARKETING
+48
+Channel Best for Time to
+traction
+The real cost
+Newsletter B2B, courses, depth, ownership 3–9 months Slow start; you own the list permanently
+LinkedIn B2B services, consulting, SaaS 2–6 months Fastest B2B channel; platform-dependent
+X / Twitter Tech, indie hacking, SaaS 3–9 months High noise; excellent for peer network
+YouTube Education, software demos,
+trust
+6–18 months Highest production cost; highest trust
+TikTok /
+Reels
+Consumer products, wide reach 1–4 months Fast reach, weak intent, poor conversion
+SEO / blog Evergreen demand capture 6–12 months Slowest; compounds indefinitely
+Reddit /
+forums
+Niche B2B, technical audiences Immediate Must genuinely participate or be rejected
+The ninety-day rule
+Do not evaluate a channel before ninety days of consistent publishing. Almost every channel
+produces close to nothing for the first six to eight weeks, and the founders who succeed are
+frequently the ones who simply did not stop during that window. If you cannot commit to
+ninety days, choose a different channel — or accept that distribution is not where you are
+competing.
+SEO for solo operators
+Search is the highest-leverage long-term channel because it captures people at the moment
+they are actively looking for a solution, and because a good page continues working for years.
+The approach that suits a solo operator is to ignore high-volume competitive terms entirely and
+target long-tail queries with clear intent — the specific, slightly awkward phrases someone
+types when they have a real problem.
+• Target queries with obvious commercial intent: "how to X for Y", "best tool for Z under $50",
+"alternative to [competitor] for [niche]".
+• Write for the person, not the algorithm. The single most reliable SEO strategy in 2026 is
+producing the genuinely most useful page on a narrow topic.
+• Use AI to research and structure, then write the substance yourself. Wholly AI-generated
+content on competitive topics performs poorly and is increasingly penalised.
+• Twenty excellent pages beat two hundred adequate ones, and cost less to maintain.
+
+-- 48 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI DISTRIBUTION AND MARKETING
+49
+Cold outreach, done without shame
+For service and agency models, outreach outperforms content for the first six months because
+it produces revenue in weeks rather than quarters. The version that works is specific,
+researched, short, and asks for something small.
+PROMPT — WRITE A COLD OUTREACH MESSAGE
+Write a short cold outreach message.
+I offer: [SPECIFIC SERVICE AND OUTCOME]
+Recipient: [ROLE] at [COMPANY]
+Something specific I noticed about them: [REAL OBSERVATION —
+a recent post, a page on their site, a job listing, a gap]
+Proof I can do this: [RESULT, CLIENT, OR RELEVANT EXPERIENCE]
+Rules:
+- Under 120 words
+- Open with the specific observation, not with me
+- One clear outcome, quantified if possible
+- Ask for a reply, not a 30-minute call
+- No flattery, no "hope this finds you well", no fake urgency
+- Sound like a person who has done this work, not a template
+Send fifteen of these a day, personalised individually. Ten replies from fifteen hundred sends is normal; two clients from
+ten replies is a business.
+YOUR ACTION STEPS
+□ Choose one channel. Write the date ninety days from now in your calendar as the
+evaluation point.
+□ Produce your first cornerstone piece this week and extract five short pieces from it.
+□ List twenty specific people or companies you could contact directly this month.
+□ Set up one scheduling tool so publishing does not depend on your daily attention.
+
+-- 49 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI DISTRIBUTION AND MARKETING
+50
+CHAPTER 8
+Pricing and Monetisation
+Charging properly is a skill, and you are probably bad at it
+Almost every solo founder underprices, and the reason is emotional rather than
+analytical. Raising your price is usually the single fastest available improvement to a
+solo business, because it requires no new customers, no new product, and no new
+marketing — only nerve.
+Why you are underpricing
+Three causes, all of them psychological. The first is that you know exactly how the sausage is
+made — you know the work took four hours and you feel fraudulent charging two thousand for
+it. The customer does not care how long it took; they care what it is worth to them. The second
+is fear of rejection, which makes a low price feel safe when it is actually the riskiest option,
+because low prices attract the most difficult customers. The third is that you are comparing
+yourself to the cheapest visible competitor rather than to the cost of the problem going
+unsolved.
+The AI-era pricing paradox
+You might expect AI to push prices down, since everyone now has access to the same
+capabilities. In practice the opposite happens for expert services. When AI makes production
+cheap, the scarce input becomes judgement — knowing what to produce, for whom, and why.
+Clients are not paying for the output any more; they are paying for the decision about what the
+output should be. That has become more valuable, not less.
+Four pricing models
+Value-based pricing
+Price on the outcome delivered rather than the effort expended. If your work saves a client
+$60,000 annually or generates $200,000 in additional revenue, a $15,000 fee is
+straightforwardly good value for them, regardless of whether it took you forty hours or four.
+This requires you to understand and be able to articulate the financial impact of the problem,
+which is itself a skill worth developing.
+
+-- 50 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI PRICING AND MONETISATION
+51
+Subscription and retainer
+Recurring revenue is worth substantially more than equivalent one-off revenue because it is
+predictable, it compounds, and it makes the business valuable to a potential acquirer. Offer
+annual plans at a 15 to 20 percent discount — the discount costs you less than the cash flow
+certainty is worth, and annual customers churn less.
+Usage-based pricing
+Common for AI-native products: charge per document processed, per API call, per generation,
+per outcome produced. It aligns your revenue with the value the customer receives and scales
+without renegotiation. The risk is unpredictability for the customer, which many buyers dislike;
+hybrid models — a base subscription plus usage above a threshold — resolve most of that
+objection.
+Outcome-based pricing
+Payment tied to a measurable result: qualified leads delivered, meetings booked, revenue
+attributed, cost reduced. It is the easiest model to sell because the buyer carries almost no risk,
+and the hardest to operate because attribution disputes are inevitable. Use it selectively, with
+clearly defined measurement agreed in writing before starting.
+The revenue pyramid
+A resilient solo business sells at more than one price point, because different buyers are ready
+for different levels of commitment and because the lower tiers feed the upper ones.
+Tier What it is Price band Its job
+Entry Newsletter, free tool, template, short guide $0–$50 Discovery and trust;
+feeds everything above
+Core Course, subscription, group programme $100–$1,000 The volume revenue
+engine
+Premium 1:1 consulting, done-for-you, advisory $1,000–$10,000+ Margin, depth, and direct
+customer insight
+The premium tier does something beyond revenue that founders consistently underestimate:
+working closely with a small number of clients is the highest-quality market research available
+anywhere, and it directly informs what belongs in the core product. Many founders keep a small
+consulting practice indefinitely purely for this reason.
+
+-- 51 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI PRICING AND MONETISATION
+52
+Revenue streams compared
+Stream Setup To revenue Passive Gross margin Ceiling
+Productised service Low Days No 70–90% Your hours
+Retainer / agency Low Weeks No 60–80% Your hours
+Digital product Low–med 1–4 months Yes 90–99% Very high
+Online course Medium 2–6 months Mostly 85–95% Very high
+SaaS subscription High 3–9 months Yes 60–85% Unlimited
+Community
+membership
+Medium 3–6 months Partly 75–90% High
+Sponsorship Medium 6–18 months Partly 90–98% Audience-bound
+Affiliate Low 3–9 months Yes 95%+ Audience-bound
+How to raise your prices
+Mechanically simple, emotionally difficult. The approach that minimises both risk and anxiety:
+1. Raise the price for new customers only. Existing customers keep their rate — this removes
+the fear of losing your current base entirely.
+2. Increase by 20 to 30 percent, not 5 percent. Small increases are absorbed without teaching
+you anything.
+3. Quote the new price to the next five prospects without explanation, apology, or a discount
+offer.
+4. Track the conversion rate. If four of five still buy, you are still underpriced. Raise again.
+5. Only when roughly half decline have you found the edge of the market — and your revenue
+at that point is almost always higher than before.
+The uncomfortable arithmetic
+Ten clients at $1,000 is $10,000 a month and ten relationships to manage. Six clients at
+$2,000 is $12,000 a month and four fewer people to serve. The higher price is not only more
+profitable, it is less work, and the clients who pay it are typically more serious, better
+prepared, and easier to satisfy. Cheap clients are expensive.
+
+-- 52 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI PRICING AND MONETISATION
+53
+PROMPT — JUSTIFY A PRICE TO YOURSELF
+I provide [SERVICE / PRODUCT] to [SPECIFIC CUSTOMER].
+Help me build the value case for pricing this properly.
+1. What does this problem cost my customer if unsolved?
+Consider: wasted hours, lost revenue, cost of the wrong
+decision, opportunity cost, cost of the alternative solutions
+they are currently using.
+2. Quantify it in money per month and per year where possible,
+stating your assumptions explicitly.
+3. Given that, what is a defensible price range?
+4. Write three sentences I can say aloud that justify the top of
+that range, framed around their outcome rather than my effort.
+5. List the three objections I am most likely to hear and how to
+answer each honestly.
+Context on my customer: [SIZE, BUDGET, ALTERNATIVES, URGENCY]
+Your pricing decision
+What does this problem cost my customer per year, in money?
+......................................................................................................................
+What am I charging now, and what would a 30% increase look like?
+......................................................................................................................
+What is my new price for the next five prospects?
+......................................................................................................................
+YOUR ACTION STEPS
+□ Calculate what your customer's problem costs them annually. Write the number down.
+□ Raise your price by at least 25 percent for the next new customer. Do not explain or
+apologise.
+□ If you sell subscriptions, add an annual plan at a 15 to 20 percent discount this week.
+□ Identify one entry-level offer under $50 you could create to feed your core product.
+
+-- 53 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI PRICING AND MONETISATION
+54
+CHAPTER 9
+Operations and Automation
+Building the machine that runs when you do not
+Every hour spent on work a system could do is an hour not spent on the work only
+you can do. Solo founders who implement automation properly report reclaiming
+fifteen to twenty hours a week — more than two full working days. This chapter is
+about how to get those hours without spending six months building infrastructure.
+The four-way sort
+Before automating anything, sort every recurring task into one of four categories. Most people
+skip straight to automation and end up building elaborate systems for work that should not exist
+at all.
+Category Test Action
+Eliminate Would anything actually break if I simply stopped? Stop. Start here — it is free and
+instant.
+Automate Is it repetitive with predictable inputs and clear
+rules?
+Build it once with Zapier, Make, or
+n8n.
+Delegate Does it need human judgement but not specifically
+mine?
+Contract it out by the project, not by
+the hour.
+Do Does it require my expertise, relationships, or taste? Protect the time for this ruthlessly.
+Eliminate before you automate
+Roughly a third of what a new founder does every week produces nothing and exists because
+it feels like work: checking analytics multiple times a day, reorganising project boards,
+researching tools, redesigning things nobody has seen, reading business content instead of
+doing business. Automating these makes them permanent. Kill them instead.
+The five automations that matter most
+
+-- 54 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI OPERATIONS AND AUTOMATION
+55
+Customer onboarding
+The moment someone pays, a sequence should fire without you: receipt and welcome email,
+access provisioned, getting-started resources delivered, a task created for anything manual,
+and a check-in scheduled for three days later. This is the highest-value automation because it
+runs at the exact moment a customer is deciding whether they made a good choice.
+Typical stack: Stripe or Razorpay → Zapier → email platform + Notion + calendar
+Customer support
+An assistant trained on your documentation and past answers handles the routine seventy to
+eighty percent — pricing questions, how-to queries, account issues. Anything it cannot answer
+confidently escalates to you with the full conversation attached. The point is not to avoid
+customers; it is to avoid answering the same question for the ninetieth time.
+Typical stack: Claude or GPT via Intercom, Crisp, or a custom agent
+Content distribution
+One piece of cornerstone content should propagate everywhere without further intervention:
+newsletter published, excerpt posted to LinkedIn, thread queued on X, transcript posted to your
+blog, clip scheduled for short-form video.
+Typical stack: Beehiiv or Kit → Zapier → Postiz or Buffer → blog
+Money
+Invoices generated and sent on schedule, payment reminders escalating automatically, receipts
+issued, failed subscription payments retried and chased, revenue logged to your books.
+Chasing payment manually is both unpleasant and entirely unnecessary.
+Typical stack: Stripe or Razorpay → Zapier → accounting tool + spreadsheet
+Lead nurture
+Someone joins your list and enters a sequence that educates them over several weeks and
+eventually presents an offer. Written once, it works for years, and it converts people who were
+not ready on the day they found you — which is most people.
+Typical stack: Email platform sequences, triggered by signup source
+AI agents: what they actually do well
+An agent differs from an automation in that it makes decisions rather than following a fixed path,
+retains memory across runs, and can chain multiple steps toward a goal. The agent market
+reached roughly $5.4 billion in 2024 and is projected to grow enormously, but the practical
+reality for a solo founder in 2026 is narrower than the marketing suggests.
+
+-- 55 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI OPERATIONS AND AUTOMATION
+56
+What agents do reliably today: triaging and categorising inbound email, researching prospects
+and drafting personalised outreach for your review, monitoring competitors and sources for
+changes, summarising recurring reports, aggregating feedback across channels into weekly
+themes, and keeping records consistent between systems.
+What they still do unreliably: anything requiring genuine judgement about your business,
+unsupervised customer-facing communication in sensitive situations, and multi-step tasks
+where an early mistake compounds silently. The correct posture is draft-and-review rather than
+fire-and-forget for anything a customer will see.
+A caution on agent economics
+Agents that call models frequently can become expensive quietly. A workflow that costs a few
+cents per run is trivial at ten runs a day and material at ten thousand. Set spending limits at the
+API level, monitor cost per outcome rather than cost per call, and check the bill weekly during
+the first month of any new agent.
+Documenting your systems
+Automation requires documentation, because you cannot automate a process you cannot
+describe. Documentation also does two other things for a solo operator: it makes delegation
+possible later, and it makes the business survivable if you are ill for three weeks. AI reduces the
+cost of producing documentation to almost nothing.
+PROMPT — TURN A PROCESS INTO A DOCUMENTED SOP
+Turn the following description into a clear standard operating
+procedure I can follow, hand to a contractor, or automate.
+HERE IS HOW I CURRENTLY DO IT (rambling is fine):
+[DESCRIBE THE PROCESS IN YOUR OWN WORDS]
+Produce:
+1. A numbered step-by-step procedure with clear decision points
+2. The inputs required before starting and the definition of done
+3. Common failure points and how to handle each
+4. Which steps could be automated, and with which tool
+5. Which steps genuinely require human judgement, and why
+Then tell me: if I could only automate one step, which single
+step would save the most time, and how would I build it?
+
+-- 56 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI OPERATIONS AND AUTOMATION
+57
+A realistic automation sequence
+Do not attempt all of this at once. A workable order, roughly one item per week:
+1. Payment received → receipt and welcome email sent automatically.
+2. New subscriber → three-email welcome sequence.
+3. FAQ document written and deployed as a support assistant.
+4. Cornerstone content → automatic cross-posting to one other platform.
+5. Invoice generation and payment chasing fully automated.
+6. Weekly metrics compiled automatically into one summary you read on Friday.
+7. Inbox triage agent drafting replies for your approval.
+YOUR ACTION STEPS
+□ List every recurring task and sort each into eliminate, automate, delegate, or do.
+□ Eliminate at least two things this week. Do not replace them with anything.
+□ Build the payment-received automation — it takes under an hour and runs forever.
+□ Write your FAQ document with AI assistance and deploy it as a support assistant.
+□ Set a weekly recurring review of what you did more than twice.
+
+-- 57 of 114 --
+
+PART IV
+Reality
+What it costs, what goes wrong, what actually happened
+to the people who made it work.
+10 · The Money Reality
+11 · What Goes Wrong
+12 · Six Founders, Six Paths
+13 · Scaling Without Hiring
+
+-- 58 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI OPERATIONS AND AUTOMATION
+59
+CHAPTER 10
+The Money Reality
+What this actually costs and what year one really looks like
+Most business books skip this chapter because the numbers are less exciting than
+the success stories. But the founders who survive are usually the ones who
+understood their runway and their real costs before starting, rather than
+discovering them in month five.
+What it costs to start
+Genuinely less than almost any business in history. Here is a realistic first-year cost structure
+for each model, assuming you are frugal and use free tiers where they suffice.
+Cost item Service business Digital product Micro-SaaS
+AI tools $20–40/mo $20–40/mo $40–60/mo
+Automation $0–20/mo $20/mo $20/mo
+Website / hosting $0–15/mo $0–15/mo $20–80/mo
+Email platform $0–29/mo $0–49/mo $0–49/mo
+Payments ~2–3% of revenue ~5–8% (platform +
+fees)
+~3% of revenue
+Product platform — $0–39/mo —
+Domain ~$12/yr ~$12/yr ~$12/yr
+Realistic monthly total $40–100 $60–150 $100–250
+The number that matters more than revenue
+Your personal monthly expenses. Not a million dollars — the amount you actually need to live.
+For many readers that figure is between $800 and $3,000 a month. A business reaching that
+number has completely changed your life, and it is a far more achievable target than the
+headline figures in Chapter 1. Write your number down before you read further.
+
+-- 59 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI THE MONEY REALITY
+60
+A realistic year one
+The following is a composite based on typical outcomes for a service-first solo business run by
+someone working evenings and weekends initially. It is not a promise and it is not the fastest
+possible path — it is roughly what competent, consistent execution produces.
+Period Revenue What is happening Main risk
+Months 1–2 $0 Research, validation, first conversations,
+landing page
+Quitting because nothing
+is happening
+Month 3 $500–2,000 First one or two clients, delivered
+manually
+Underpricing to win the
+first client
+Months 4–6 $2,000–5,000/mo Three to five clients, first systems,
+publishing begins
+Delivery consuming all
+your time
+Months 7–9 $4,000–8,000/mo Prices raised, processes documented,
+audience growing slowly
+Burnout; no time to build
+anything scalable
+Months
+10–12
+$6,000–12,000/mo First product launched, automation
+reducing delivery load
+Splitting focus across too
+many things
+Two honest caveats. Roughly half of people who start will not reach month three, almost entirely
+because the first two months produce no external validation and that is psychologically harder
+than it sounds. And the audience-first path looks materially worse than this in year one — often
+near zero revenue for eight to twelve months — before compounding sharply. Justin Welsh took
+twenty-nine months to reach $1M cumulative; Dan Koe took roughly four years to go from
+$10,000 a year to serious money. Neither was an overnight outcome.
+Understanding your real margins
+Headline margin figures in this space are genuinely high — 87 percent for Photo AI, reportedly
+around 98 percent for Dan Koe's media business — but they exclude the one input a solo
+founder should be costing: your own time. A more useful measure is effective hourly rate.
+Scenario Monthly revenue Hours/month Effective rate
+Underpriced freelancing $3,000 160 $19/hr
+Properly priced service $8,000 100 $80/hr
+Productised service with AI delivery $12,000 80 $150/hr
+Mature product business $20,000 60 $333/hr
+The progression across those rows is not caused by working harder. It is caused by pricing
+correctly and by moving delivery work into systems. Track this number monthly — it is the
+single best indicator of whether your business is improving structurally or simply getting busier.
+
+-- 60 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI THE MONEY REALITY
+61
+Tax and structure, in general terms
+Specifics vary enormously by country and this book cannot give you advice for yours. Appendix
+C covers the situation for readers operating from India in detail. Four principles apply almost
+everywhere:
+• Separate your money immediately. A dedicated business bank account from day one.
+Mixing personal and business funds creates accounting pain that compounds and can create
+legal exposure.
+• Set tax aside as revenue arrives, not at year end. A common rule is to move 25 to 35
+percent of every payment into a separate account and never touch it. Founders who skip this
+are the ones with a crisis in month fourteen.
+• Start simple, incorporate when there is a reason. Sole proprietor or the local equivalent is
+usually adequate until you have meaningful revenue, real liability exposure, or a specific tax
+reason to change.
+• Keep every receipt from day one. Tools, subscriptions, hardware, courses, internet, and
+workspace costs are typically deductible. This is real money and reconstructing it later is
+miserable.
+Runway and the decision to go full time
+The most common serious mistake in this whole domain is quitting a job too early. The romantic
+version — burning the boats — makes for good stories and bad outcomes, because desperation
+produces poor decisions: underpricing, accepting bad clients, chasing quick money instead of
+building anything durable.
+A defensible rule for going full time
+Three consecutive months where business revenue covers your essential personal expenses,
+plus six months of those expenses saved in cash. Meet both conditions and the transition is a
+calculated step. Meet neither and you are gambling. Meet one, and wait — the business will
+still be there in three months, and it will be stronger for having been built without panic.
+
+-- 61 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI THE MONEY REALITY
+62
+Your money baseline
+My essential monthly personal expenses:
+......................................................................................................................
+Monthly business revenue needed to cover that:
+......................................................................................................................
+Current savings, expressed in months of expenses:
+......................................................................................................................
+Target date to reach the three-month revenue test:
+......................................................................................................................
+YOUR ACTION STEPS
+□ Calculate your essential monthly expenses precisely. This is your real target.
+□ Open a separate business bank account this week if you have not already.
+□ Set up an automatic transfer of 30 percent of every payment received into a tax account.
+□ Calculate your current effective hourly rate. Recalculate it monthly.
+
+-- 62 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI THE MONEY REALITY
+63
+CHAPTER 11
+What Goes Wrong
+The failure modes, and how to recognise yours early
+This is the chapter that would be left out of a book designed to sell you something.
+Everything below is common, most of it is recoverable, and recognising which one
+you are in is usually the difference between a correction and an ending.
+Failure mode 1 — Building for months without selling anything
+What it looks like. Four months in, the product is nearly ready. You have refined the
+onboarding, rebuilt the landing page twice, and added a feature you thought of in the shower.
+You have spoken to no customers. It feels productive, because building is genuinely enjoyable
+and selling is genuinely uncomfortable.
+Why it happens. Building is entirely within your control and provides constant small rewards.
+Selling involves rejection from strangers. The brain reliably chooses the first, and dresses the
+choice up as diligence.
+The fix. Impose an external forcing function. Set a date, tell someone, and sell before the
+product is finished — take pre-orders, run a paid pilot, deliver the first version manually. If the
+thought of showing it to someone makes you want to refine it further, that is precisely the signal
+to show it today.
+Failure mode 2 — The niche that never had money in it
+What it looks like. People say they love the idea. Engagement is fine. Nobody buys. You
+conclude the problem is your marketing and spend three months improving copy that was never
+the issue.
+Why it happens. Enthusiasm is free to give and costs nothing to withdraw. The validation in
+Chapter 3 was skipped or done with weak signals — surveys and waitlists rather than payments.
+The fix. Ask directly for money, early, from fifteen qualified people. If none buy, the niche or the
+offer is wrong, and no amount of marketing improvement will change that. Change the offer
+first, since it is cheaper; change the niche if the second offer also fails.
+
+-- 63 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI WHAT GOES WRONG
+64
+Failure mode 3 — The delivery trap
+What it looks like. Revenue is decent — $6,000 or $8,000 a month — and you have no time at
+all. Every hour goes to client delivery. You have not published in six weeks, built nothing
+scalable, and the pipeline is empty because you have had no time for sales. When a client
+leaves, revenue drops immediately and you scramble.
+Why it happens. Service revenue arrives quickly and feels like success, which obscures the
+fact that it does not compound. Every month starts at zero.
+The fix. Raise prices and reduce client count — this is almost always the correct first move and
+it is counterintuitive enough that most people resist it. Then protect one full day a week for
+non-delivery work before you feel you can afford to. You will never feel you can afford to.
+Failure mode 4 — Quitting during the flat period
+What it looks like. Months three to eight of an audience-led business. You are publishing
+consistently, the numbers barely move, and the effort-to-visible-result ratio is demoralising.
+You conclude it does not work for you and stop.
+Why it happens. Compounding is invisible until it is not, and the flat part of the curve is much
+longer than anyone expects. Every founder profiled in this book went through this period; you
+simply do not read about it because nobody writes retrospectives about the boring middle.
+The fix. Commit in advance to a fixed period — ninety days minimum, ideally six months — and
+measure inputs rather than outputs during it. Did you publish? That is the metric. Audience size
+is not under your control on any given week; publishing is.
+Failure mode 5 — Tool and strategy churn
+What it looks like. You have switched email platforms twice, restarted your newsletter, changed
+your positioning three times, and are researching a new automation tool. Each change felt
+justified. Cumulatively, nothing has been given long enough to work.
+Why it happens. Switching provides the feeling of progress without the discomfort of exposure.
+It is procrastination with a professional-looking surface.
+The fix. A standing rule: no changes to tools, positioning, or channel for ninety days once
+chosen, except in response to direct customer evidence. Write the rule down. Revisit only at the
+ninety-day mark.
+Failure mode 6 — Burnout and the single point of failure
+What it looks like. You have not had a genuine week off in a year. Customer support follows
+you on holiday. A period of illness costs real revenue. The freedom the business was supposed
+to provide has become a form of confinement.
+
+-- 64 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI WHAT GOES WRONG
+65
+Why it happens. Structurally, you are the single point of failure, and unlike a company with staff
+there is no redundancy anywhere in the system.
+The fix. This is the one that requires deliberate design rather than willpower. Document your
+processes so a contractor could cover for two weeks. Build the support automation before you
+need it. Take a scheduled week off every quarter, announced to customers in advance —
+almost nobody minds, and the assumption that they will is usually projection.
+The diagnostic question
+When something is not working, ask: am I avoiding a specific uncomfortable action? The
+honest answer identifies the failure mode almost every time. Building instead of selling,
+researching instead of publishing, switching tools instead of asking for money — the shape is
+always the same. The uncomfortable action is nearly always the correct next step.
+
+-- 65 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI WHAT GOES WRONG
+66
+Signals worth taking seriously
+Signal What it usually means Reasonable response
+20 conversations, nobody names
+the problem unprompted
+The problem is not urgent Change the niche
+People engage but never buy The offer or the price is wrong Change the offer before the niche
+90 days of publishing, zero
+organic response
+Wrong channel or wrong
+message
+Change one variable, not both
+Revenue is fine but you dread the
+work
+Wrong client type or wrong
+model
+Raise prices; fire the worst client
+Growing but perpetually out of
+time
+Delivery trap Systematise or productise now
+YOUR ACTION STEPS
+□ Identify which failure mode most resembles your current situation. Be honest.
+□ Name the specific uncomfortable action you have been avoiding. Do it within 48 hours.
+□ Write your ninety-day no-change rule and put it somewhere visible.
+□ Schedule one week off in the next quarter, now, before you have a reason not to.
+
+-- 66 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI WHAT GOES WRONG
+67
+CHAPTER 12
+Six Founders, Six Paths
+What they actually did, including the slow parts
+Case studies are useful only when they include the timeline. Every story below is
+presented with how long it took, because the compression of these narratives into
+"built a business, sold it for millions" is the single most misleading thing about how
+they are usually told.
+BASE44 — $80M ACQUISITION IN ABOUT 16 MONTHS
+Maor Shlomo
+Israeli developer, thirty-one, starting a side project after military service in late 2024.
+Base44 let non-technical people build software by describing it in plain English. He
+incorporated in January 2025, shipped as many as thirteen production updates a day,
+monitored servers every two to three hours, and got feedback from friends rather than
+running marketing. Growth was word of mouth. By May 2025 he was making around
+$189,000 monthly profit; by June, 300,000 users and roughly $3.5M ARR. Wix acquired
+the company for $80 million in cash. Total personal investment: approximately $10,000 to
+$20,000.
+Lesson: Ship faster than feels comfortable, and make the product good enough that users
+share it without being asked.
+The uncomfortable detail: he was effectively on call around the clock during the growth period. This was not a
+lifestyle business.
+
+-- 67 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI SIX FOUNDERS, SIX PATHS
+68
+PHOTO AI — ~$132K MRR, 87%+ NET MARGIN
+Pieter Levels
+Probably the most influential indie hacker of the last decade, with more than seventy
+launched projects behind him — the overwhelming majority of which went nowhere. Photo
+AI generates professional portraits using AI models and reached roughly $132,000 in
+monthly recurring revenue with net margins above 87 percent and no employees. His
+method is consistent across everything he builds: launch fast, charge from day one,
+automate aggressively, build in public, and treat most projects as disposable experiments.
+Lesson: Volume of attempts matters more than quality of any single attempt. Charge from the
+first day.
+The uncomfortable detail: the seventy failed projects are the actual story. Survivorship bias is the whole lesson
+here.
+COURSES AND NEWSLETTER — $10M+ CUMULATIVE
+Justin Welsh
+Burned out after years leading SaaS sales teams. Began publishing on LinkedIn in 2019,
+building slowly and systematically: daily posts, a weekly newsletter, then courses teaching
+the system he had developed. It took twenty-nine months to reach $1 million in cumulative
+revenue — not months, twenty-nine months. By 2025 he had passed $10 million
+cumulative, with no full-time employees and no paid advertising at any point.
+Lesson: Consistency over a long period beats intensity over a short one. Build the audience
+before the product.
+The uncomfortable detail: nearly two and a half years of daily publishing before the first million. Most people quit
+in month four.
+
+-- 68 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI SIX FOUNDERS, SIX PATHS
+69
+MISS EXCEL — $2.9M/YEAR
+Kat Norton
+Working in corporate finance in 2020 when she began posting Excel tutorials on TikTok —
+energetic, funny, and genuinely useful. The audience grew rapidly, she left her job, and
+converted the following into online courses. By 2024 the business was generating
+approximately $2.9 million annually, bootstrapped, with Norton as the sole operator for the
+period in which it first crossed a million in course sales.
+Lesson: The niche does not need to be exciting. Execution and personality carry more weight
+than subject matter.
+The uncomfortable detail: the format was suited to her specifically. Copying the format without the personality
+does not reproduce the result.
+POSTIZ — $145K MRR, GROWING ~$1K MRR/DAY
+Nevo David
+Built a social media scheduling platform as a solo founder, reaching approximately
+$145,000 in monthly recurring revenue — about $1.74 million annualised — and growing by
+roughly $1,000 MRR daily. He built it using AI coding tools, marketed through
+build-in-public content on X and LinkedIn, and grew through word of mouth and organic
+search rather than paid acquisition. The product publishes across more than thirty
+channels from a single workflow.
+Lesson: Solve a bottleneck you personally experience in a workflow you personally use. Then
+talk about it publicly, continuously.
+The uncomfortable detail: this is a crowded category with well-funded competitors. He won on focus and
+founder-led distribution, not on being first.
+
+-- 69 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI SIX FOUNDERS, SIX PATHS
+70
+NONPROFIT AI CONSULTING PLATFORM — HUNDREDS OF CLIENTS
+Dana Snyder
+The most instructive story here for non-technical readers. Snyder identified that nonprofits
+could not afford human consultants for fundraising strategy, and built an AI-powered
+platform to serve them. She had no technical background whatsoever. She built it over
+roughly six months using Replit's AI coding tools. The platform now automates monthly
+giving programme development, fundraising strategy, and donor communications for
+hundreds of clients, and she remains the only full-time employee.
+Lesson: Domain expertise plus AI building tools beats technical skill without domain expertise.
+You already know something worth building around.
+The uncomfortable detail: six months of building while learning the tools. "No code required" does not mean "no
+effort required".
+The patterns across all six
+Six very different businesses, but the commonalities are striking and worth stating plainly:
+• Every one of them published in public throughout. Not one built quietly and launched to
+silence.
+• Every one started from something they already knew or personally needed. None entered
+a market cold to chase an opportunity.
+• Every one charged money early. None waited for the product to be finished before finding
+out whether anyone would pay.
+• Every one took longer than the summary suggests. The shortest was sixteen months; the
+longest were measured in years.
+• None raised outside investment. Not one.
+Read these correctly
+These six people are the visible tail of an enormous distribution. Pieter Levels has seventy
+failed projects behind Photo AI, and the others have their own unpublished failures. The
+correct reading of this chapter is not "this is what will happen to me". It is "the ceiling is much
+higher than I assumed, and every one of them started with something they already knew".
+
+-- 70 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI SIX FOUNDERS, SIX PATHS
+71
+CHAPTER 13
+Scaling Without Hiring
+Growing revenue while keeping headcount at one
+The conventional path is to raise money and hire. The solo path is to grow revenue
+and freedom while keeping the team at one. This is not smallness for its own sake
+— it is a deliberate choice to grow through leverage rather than through headcount,
+and it requires different moves at each stage.
+The transition problem
+The activities that take you from zero to $10,000 a month are almost entirely different from
+those that take you from $10,000 to $50,000. The first phase rewards hustle, personal
+outreach, and hand-crafted delivery. The second rewards systems, productisation, and saying
+no. Most founders stall precisely because they keep doing what worked, past the point where it
+works.
+Stage What the work is What kills you here The unlock
+$0–$1K/mo Conversations and first sales No external validation;
+self-doubt
+One paying customer
+$1K–$5K/mo Repeatability and retention Inconsistency; ad-hoc delivery A documented process
+$5K–$20K/m
+o
+Systems and distribution Delivery consuming all your
+time
+Price increase +
+automation
+$20K–$50K/
+mo
+Productisation and leverage Decision fatigue; quality drift A second revenue
+stream
+$50K+/mo Compounding assets Your own capacity ceiling Contractors and agents
+The five levers
+Lever 1 — Productise
+Convert bespoke work into a defined package with a fixed scope, price, and process. The client
+gets the same outcome with less uncertainty; you get predictable delivery that can be
+systematised and eventually partially automated. This single move typically improves effective
+hourly rate more than anything else available to you.
+
+-- 71 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI SCALING WITHOUT HIRING
+72
+Lever 2 — Create assets that sell without you
+Courses, templates, playbooks, tools. Built once, sold indefinitely. The important property is not
+passivity — nothing is truly passive — but that revenue stops being strictly proportional to hours
+worked.
+Lever 3 — Own your distribution
+A newsletter of ten thousand engaged readers, or twenty pages ranking for high-intent search
+terms, generates customers without daily effort. This is the closest thing to an appreciating
+asset a solo business can hold, and it is the reason audience-first founders eventually overtake
+service-first ones.
+Lever 4 — Use contractors deliberately
+Solo does not have to mean alone forever. Project-based specialists — a video editor for four
+hours weekly, a developer for one specific feature, an accountant quarterly — add capacity
+without the fixed cost, management overhead, or commitment of employment. Global platforms
+such as Upwork, Toptal, and Deel make this practical.
+Lever 5 — Expand capacity with AI
+As models improve, your effective output grows without additional hours. The discipline is to
+reinvest reclaimed time into higher-leverage work rather than absorbing it into more of the
+same. Audit your stack quarterly and ask what has become possible that was not six months
+ago.
+What to do when you hit your ceiling
+Every solo founder eventually reaches a point where more revenue genuinely requires more
+capacity than one person has. There are four honest options, and choosing deliberately beats
+drifting into whichever happens.
+Option What it means Best when
+Stay at the ceiling Optimise for margin and time, not growth The income is sufficient and you value
+the freedom
+Productise harder Convert remaining bespoke work into
+products
+Demand exceeds delivery capacity
+Add contractors Keep ownership, add capacity project by
+project
+One specific function is the bottleneck
+Sell the business Exit and start again with capital and
+experience
+Revenue is stable, recurring, and
+documented
+
+-- 72 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI SCALING WITHOUT HIRING
+73
+Staying small is a legitimate strategy
+A business generating $15,000 a month with twenty hours of work a week, no employees, and
+no investors is an extraordinary outcome by any reasonable standard. The pressure to grow
+indefinitely comes largely from a venture-capital narrative that does not apply to you and was
+never designed for your situation. Decide what you actually want before optimising for
+someone else's definition of success.
+YOUR ACTION STEPS
+□ Identify which revenue stage you are in and what the table says kills founders there.
+□ Name your single biggest time bottleneck and design one system to halve it in thirty days.
+□ List every piece of expertise you hold. Mark the ones that could become sellable assets.
+□ Decide now what "enough" looks like for you, in revenue and in hours per week.
+
+-- 73 of 114 --
+
+PART V
+Execution
+One business followed end to end, and the ninety days
+that start yours.
+14 · A Complete Worked Example
+15 · Your 90-Day Plan
+
+-- 74 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI SCALING WITHOUT HIRING
+75
+CHAPTER 14
+A Complete Worked Example
+From an idea to $8,000 a month, decision by decision
+Everything in this book is easier to understand applied than described. What
+follows is a single business followed from nothing to a working operation, with the
+reasoning shown at each step. The business is composite and illustrative —
+assembled from patterns that repeat across real solo businesses — but every
+decision in it is one you will face.
+Meet Priya
+Priya spent six years as an operations manager at a mid-sized logistics company. She is not a
+developer. She has no audience. She has about ten hours a week outside her job and roughly
+$500 she is willing to spend. She wants to replace $4,000 a month of income within a year.
+This is a realistic starting position and closely resembles most readers of this book.
+Week 1 — Finding the niche
+Priya starts where Chapter 3 says to start: her own experience. Her list of paid skills includes
+vendor management, shipment tracking, warehouse process design, and — the one she almost
+leaves off because it feels mundane — building the spreadsheet systems that kept her
+operations team functioning.
+She runs the niche generation prompt and gets twenty candidates. Most are too broad. Three
+survive: freight brokers drowning in manual quote tracking, small e-commerce operations with
+no inventory forecasting, and third-party logistics providers who report to clients manually
+every week.
+She scores them on the eight-criterion scorecard. The third-party logistics option scores
+highest — she knows exactly who these people are, she has been their customer, she knows
+the reporting problem intimately because she used to receive the reports, and she knows they
+have budgets.
+
+-- 75 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI A COMPLETE WORKED EXAMPLE
+76
+Criterion 3PL reporting Freight quotes E-com forecasting
+Problem urgency 5 — weekly, unavoidable 4 3
+Willingness to pay 5 — they bill clients for it 4 2
+Her credibility 5 — was the client 3 2
+Reachability 4 — LinkedIn, trade groups 4 3
+Market size 3 — thousands, not millions 4 5
+Competition 4 — generic BI tools only 2 2
+Solo feasibility 5 — she can do this alone 3 3
+Genuine interest 4 3 2
+TOTAL 35 / 40 27 / 40 22 / 40
+Week 2 — Validation, and a surprise
+Priya messages twenty-two people on LinkedIn who work at small third-party logistics firms.
+She does not pitch. The message asks a single question: how do you currently put together the
+weekly client reports, and how long does it take?
+Nine reply. Six agree to a fifteen-minute call. What she learns changes the business. The
+reporting itself is not the pain — the pain is that reports are assembled by copying data from
+three separate systems into a spreadsheet, every single week, by someone whose time is
+expensive, and errors in that copying are what generate angry client emails.
+The validation lesson
+Priya went in believing the problem was "reports take too long". The real problem was
+"manual data assembly produces errors that damage client relationships". Those sound
+similar and are not. The second is urgent, emotionally charged, and has a clear cost. This
+distinction is only ever discovered by talking to people, and it is why validation cannot be
+skipped.
+She asks each of the six what they would pay for a weekly report that was assembled
+accurately without their team touching it. Answers range from $300 to $1,200 a month. Two say
+they would start immediately.
+
+-- 76 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI A COMPLETE WORKED EXAMPLE
+77
+Week 3 — Choosing the model
+The instinct is to build software. Priya cannot build software, and building it would take six
+months during which she would earn nothing and learn little. Chapter 5 says the productised
+service is the correct starting point for exactly this situation.
+Her offer: a fixed weekly client-reporting package. She collects the data exports, assembles
+and checks the report using AI-assisted workflows, and delivers a finished, branded report their
+account manager can send without editing. Price: $600 a month per client. Delivery: manual at
+first, with a target of three hours per client per month.
+Decision What she chose Why
+Model Productised service Revenue in weeks, no build risk, learns the domain deeply
+Price $600/month Mid-range of what they said; leaves room to raise
+Delivery Manual, AI-assisted Proves the workflow before automating it
+Channel LinkedIn + direct outreach Her buyers are demonstrably there
+Scope One report type only Refuses all custom requests in month one
+Weeks 4–6 — First revenue
+The two interested prospects become her first clients at $600 each. She sets a deliberate rule:
+she will not build anything, automate anything, or design a logo until she has delivered four full
+weeks manually. She wants to know exactly where the work is before she systematises it.
+The first month is ugly. Delivery takes eleven hours per client, not three. She learns that each
+client exports data in a different format, that two of the three systems produce inconsistent date
+fields, and that the actual value she adds is spotting anomalies the client's own team had been
+missing for months.
+That last discovery becomes the centre of her positioning. She is not producing reports. She is
+catching problems before clients do.
+Weeks 7–12 — Systems and price
+With four weeks of manual delivery behind her, Priya knows exactly what to automate. She
+builds three things, in this order:
+1. A cleaning and normalisation workflow that takes any of the three export formats and
+produces one consistent structure. Built in a spreadsheet with AI-generated formulas — no
+code.
+
+-- 77 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI A COMPLETE WORKED EXAMPLE
+78
+2. A prompt library that turns the normalised data into the written commentary section of the
+report, in her voice, with anomalies flagged for her review.
+3. An onboarding automation: a new client signs, and a folder structure, a data-request email,
+and a recurring task sequence are created automatically.
+Delivery time falls from eleven hours to about four. She raises the price for new clients to $850,
+quoting it without explanation. The next three prospects all accept.
+Month 3 $1,200 11 → 4 hrs $600 →
+$850
+first two clients monthly revenue at month 3 delivery time per client price after systemisation
+Months 4–8 — Distribution
+Priya starts publishing on LinkedIn twice a week. She does not write about her service. She
+writes about the operational problems she keeps encountering: the three reconciliation errors
+that appear in almost every logistics dataset, why weekly reporting breaks down at a certain
+company size, what she found in a client's data that had been wrong for a year.
+This is the content engine from Chapter 7 applied literally. Each week she writes one substantial
+post from something that happened during delivery, then extracts three shorter pieces from it.
+Two hours a week total.
+The results are unremarkable for two months and then compound. By month six she is receiving
+one or two inbound enquiries a week from people who recognised their own problem in her
+writing. Her close rate on inbound is roughly four times her cold outreach rate, and the
+conversations are shorter because trust already exists.
+Months 9–12 — Stacking the second stream
+By month nine Priya has nine clients at an average of $850 — about $7,650 a month — and she
+is at capacity. Chapter 13 says this is the delivery trap, and the correct moves are to raise prices
+and to productise. She does both.
+She raises new-client pricing to $1,200 and stops accepting clients below that. She loses two
+prospects and keeps her margin. More significantly, she packages what she has learned into a
+self-serve product: a template system with the normalisation workflow, the prompt library, and a
+written playbook, sold at $340 to the operations managers who follow her on LinkedIn but
+cannot afford the service.
+
+-- 78 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI A COMPLETE WORKED EXAMPLE
+79
+Month 12 position Figure
+Service clients 8 (having pruned two low-value ones)
+Service revenue ~$7,800/month
+Product sales ~12/month at $340 = ~$4,080
+Total monthly revenue ~$11,880
+Hours worked per week ~28
+Effective hourly rate ~$106
+Employees 0
+Outside investment $0
+What actually mattered
+• She started from what she already knew. The domain expertise was the entire advantage;
+the AI tools were leverage applied on top of it.
+• She talked to twenty-two people before building anything. The conversation in week two
+redefined the business.
+• She delivered manually for a month before automating. Every system she built afterwards
+was aimed at a bottleneck she had personally experienced.
+• She raised prices twice. Revenue roughly doubled without doubling the client count or the
+work.
+• She published from the work. The content cost two hours a week because the raw material
+was generated by delivery anyway.
+• She stacked the product only after the service was stable. Not in month two, when it would
+have split her focus and failed.
+The uncomfortable parts, stated plainly
+Months one and two produced no revenue at all. Month four involved eleven-hour delivery
+weeks alongside a full-time job. Two clients left. Her first three months of LinkedIn posting
+produced almost no response. None of this appears in a summary of the outcome, and all of it
+is the actual work.
+
+-- 79 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI A COMPLETE WORKED EXAMPLE
+80
+CHAPTER 15
+Your 90-Day Plan
+Specific, dated, and starting this week
+Everything in this book reduces to a sequence of actions. This chapter is that
+sequence, organised into thirteen weeks. It assumes ten to fifteen hours a week,
+which is what most people have alongside existing commitments.
+Month 1 — Decide and validate
+Week 1 · Choose your ground
+• List your roles, paid skills, deep knowledge, and self-solved problems.
+• Run the niche generation prompt. Produce twenty candidates, narrow to five.
+• Score your top three on the eight-criterion scorecard.
+• Commit to one. Write down why, and the date you committed.
+Week 2 · Listen
+• Find three places your audience gathers. Read for two hours. Copy fifty verbatim complaints.
+• Message twenty people with a single question about the problem. Do not pitch.
+• Hold at least five conversations. Take written notes.
+• Write down the problem in their words, not yours.
+Week 3 · Define the offer
+• Choose your business model using Chapter 5. One model only.
+• Define the offer: specific outcome, timeline, price. Use the pricing prompt.
+• Build a one-page landing page describing the outcome. Add an email field.
+• Set up payment collection. See Appendix C if you are operating from India.
+Week 4 · Ask for money
+• Return to everyone you spoke to in week two with a specific offer.
+• Send fifteen personalised outreach messages using the outreach prompt.
+• Target: one paying customer, even at a reduced founding rate.
+• If nobody buys, change the offer before changing the niche.
+
+-- 80 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI YOUR 90-DAY PLAN
+81
+The month one test
+At the end of thirty days you should have: a chosen niche you can defend, notes from at least
+five real conversations, a defined offer with a price, a live page, and either a paying customer
+or clear evidence about why not. If you have a beautiful brand, a logo, and no conversations,
+you have spent the month avoiding the work.
+Month 2 — Deliver and systematise
+Weeks 5–6 · Deliver manually
+• Deliver the outcome by hand. Do not automate anything yet.
+• Track exactly where your hours go, in writing.
+• Ask your first customer what nearly stopped them from buying.
+• Get a second customer at full price.
+Week 7 · Build your first systems
+• Document your delivery process using the SOP prompt.
+• Build the payment-received automation.
+• Build one delivery automation aimed at your largest time sink.
+• Set up your standing context prompt and start a prompt library.
+Week 8 · Start publishing
+• Choose one channel. Write the ninety-day evaluation date in your calendar.
+• Publish your first cornerstone piece, drawn from delivery experience.
+• Extract short-form content using the extraction prompt.
+• Set up scheduling so publishing does not depend on daily willpower.
+Month 3 — Grow and stabilise
+Weeks 9–10 · Sell consistently
+• Fifteen outreach messages per week, every week.
+• Publish one cornerstone piece per week without exception.
+• Target: three to five paying customers total.
+• Raise your price for new customers by 25 percent.
+Week 11 · Reduce the delivery load
+• Identify your largest remaining manual step. Automate or template it.
+
+-- 81 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI YOUR 90-DAY PLAN
+82
+• Deploy an FAQ-trained support assistant.
+• Write your three decision rules: minimum price, ideal client, automatic decline.
+Week 12 · Review honestly
+• Calculate revenue, hours worked, and effective hourly rate.
+• Identify which failure mode from Chapter 11 you are closest to.
+• Decide what to stop doing. Something should be stopped.
+Week 13 · Plan the next ninety days
+• Choose the one metric that matters most for the next quarter.
+• Decide which second revenue stream to stack, and what must be true first.
+• Schedule a week off in the coming quarter. Now, in the calendar.
+The realistic outcome
+At the end of ninety days, executed properly, you should expect somewhere between $1,000
+and $5,000 in monthly revenue, three to six customers, a documented delivery process, one
+working automation, and roughly twelve pieces of published content. That is not a business that
+has replaced your income. It is a business that has proven it can exist, which is the only thing
+ninety days can honestly prove.
+It is also, statistically, further than the overwhelming majority of people who read a book like this
+will get — not because they lack ability, but because they will read it and do nothing.
+Commit in writing
+My niche (the specific person and their problem):
+......................................................................................................................
+My offer and price:
+......................................................................................................................
+My channel:
+......................................................................................................................
+Date I will collect my first payment:
+......................................................................................................................
+The person I am telling about this commitment:
+......................................................................................................................
+
+-- 82 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI YOUR 90-DAY PLAN
+83
+A closing word
+The hard part of this was never the tools. The tools are cheap, capable, and getting better every
+month. The hard part is the day in month four when nobody has bought anything, your
+publishing has produced silence, and the sensible-sounding voice suggests that this was
+always unlikely and you should stop.
+Every founder in Chapter 12 had that day. Levels had it seventy times. Welsh had it for the better
+part of two years before the first million. The only thing separating the people who make it from
+the people who do not is that the first group kept going through a period that felt exactly like
+failure and was actually just the middle.
+“The one-person startup with AI is not a dream. It is a decision,
+followed by about four hundred small actions.”
+— The end of this book, and the start of the work
+Start today
+Not tomorrow, not when you feel ready, not when the idea is perfect. Today. Write down your
+niche candidate. Send one message to one person in it. Tell someone what you are building.
+The first action is the only one that is genuinely difficult; after that, momentum does most of
+the work.
+Thank you for reading.
+Now close the book and go and talk to somebody about their problem.
+Dilip Saroj · dilipsaroj95@gmail.com · 2026
+
+-- 83 of 114 --
+
+PART VI
+Appendices
+Reference material you will come back to.
+A · The Prompt Library
+B · Templates and Frameworks
+C · Operating From India
+D · Tools and Communities
+
+-- 84 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI YOUR 90-DAY PLAN
+85
+APPENDIX A
+The Prompt Library
+Twenty prompts, organised by what you are trying to do
+These are written to be copied directly into Claude, ChatGPT, or any capable
+assistant. Replace anything in [SQUARE BRACKETS]. The prompts marked with a
+dagger also appear in the relevant chapter; the rest are new. Save the ones you use
+into your own library and edit them until they sound like you.
+Two rules that make every prompt below work better
+• Always establish context first — paste your standing context prompt (A1) at the start of a
+session.
+• Always ask for critique of the output before accepting it. "What is weakest about this?"
+costs nothing.
+
+-- 85 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI THE PROMPT LIBRARY
+86
+A · Setup and thinking
+PROMPT — A1 — STANDING CONTEXT †
+I am going to work with you regularly. Keep this in mind throughout.
+BUSINESS: [what you sell, to whom]
+AUDIENCE: [the specific person, situation, and problem]
+MY VOICE: [direct/warm/technical — plus 2 sentences I would write
+and 1 phrase I would never write]
+GOAL THIS QUARTER: [one measurable objective]
+CONSTRAINTS: [hours available, budget, skills I lack]
+When I ask for writing, match my voice, not a generic professional
+register. When I ask for advice, prioritise what I can execute
+alone this week. If a request rests on a bad assumption, say so
+before answering.
+PROMPT — A2 — PRESSURE-TEST A DECISION †
+I am considering: [DECISION AND MY REASONING]
+Do not tell me it is a good idea. Instead:
+1. The three strongest arguments against it
+2. Assumptions I am making but have not stated
+3. The most likely way this fails within 90 days
+4. Evidence I could gather this week that would change my mind
+Be direct. I would rather be corrected now than in six months.
+
+-- 86 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI THE PROMPT LIBRARY
+87
+PROMPT — A3 — WEEKLY REVIEW
+Here is what I did this week: [BULLET LIST]
+Here are my numbers: [REVENUE, CUSTOMERS, PUBLISHED, ENQUIRIES]
+My goal this quarter is: [GOAL]
+1. Which of these activities actually moved me toward the goal?
+2. Which were motion without progress? Be blunt.
+3. What is the single highest-leverage thing I could do next week?
+4. What should I stop doing entirely?
+Do not be encouraging. Be useful.
+
+-- 87 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI THE PROMPT LIBRARY
+88
+B · Niche and validation
+PROMPT — A4 — GENERATE NICHE CANDIDATES †
+Here is my background:
+Work experience: [ROLES AND YEARS]
+Skills I have been paid for: [LIST]
+Things I know unusually well: [LIST]
+Problems I have solved for myself: [LIST]
+Generate 20 specific niche opportunities where my background gives
+me credibility. For each: the specific person (role and situation,
+not a demographic), their painful problem, evidence people already
+pay to solve it, and why I am credible to them.
+"Small business owners" is not a person. "Solo dental practice
+owners handling their own billing" is.
+PROMPT — A5 — ANALYSE COMMUNITY PAIN POINTS †
+Below are real posts from [COMMUNITY], where [AUDIENCE] gather.
+1. The five most frequent frustrations, ranked
+2. The exact phrases they use for each
+3. Which ones cost them money or significant time
+4. What they have tried and why it failed
+5. Any recurring problem with no obvious existing solution
+Quote their actual language. Do not translate into marketing speak.
+POSTS:
+[PASTE 30-50 POSTS]
+
+-- 88 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI THE PROMPT LIBRARY
+89
+PROMPT — A6 — DESIGN A VALIDATION TEST
+My hypothesis: [SPECIFIC AUDIENCE] will pay [PRICE] for
+[OUTCOME] because [REASON].
+Design the cheapest possible test of this that produces a real
+signal, not a polite one. Specify:
+- Exactly what I do, in order
+- What I say, word for word
+- How many people I need to reach
+- What result would confirm the hypothesis
+- What result should make me abandon it
+The test must involve asking for money or a commitment, not a
+survey. It must be completable in under 7 days.
+PROMPT — A7 — COMPETITOR GAP ANALYSIS
+My market: [NICHE]. Main competitors: [LIST 3-5].
+Below are reviews and comments about them: [PASTE REVIEWS,
+especially 2- and 3-star ones]
+1. Who is each competitor clearly built for?
+2. Who is buying despite not being that person, and what are
+they compromising on?
+3. Which complaints appear repeatedly across competitors?
+4. Where is there an underserved segment I could serve better
+as a one-person business?
+5. What could I honestly claim that none of them can?
+
+-- 89 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI THE PROMPT LIBRARY
+90
+C · Building and product
+PROMPT — A8 — CUT YOUR SCOPE †
+I am building v1 of [PRODUCT] for [USER].
+Core outcome: [OUTCOME].
+Planned features: [LIST EVERYTHING]
+Act as a ruthless PM whose only goal is shipping in 7 days.
+Mark each feature KEEP (required for the core outcome), FAKE
+(can be done manually behind the scenes), or CUT (not needed
+before 100 users).
+Then describe the smallest version that still delivers the
+outcome. Be aggressive.
+PROMPT — A9 — TURN FEEDBACK INTO A PRIORITY LIST
+Here is feedback from my first users: [PASTE EVERYTHING]
+1. Group these into themes
+2. Separate "this blocks me from getting value" from
+"this would be nice"
+3. Identify anything that suggests I have misunderstood the
+problem itself
+4. Rank the top 5 changes by impact on whether someone would
+recommend this unprompted
+5. Tell me what to ignore and why
+
+-- 90 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI THE PROMPT LIBRARY
+91
+PROMPT — A10 — WRITE ONBOARDING THAT WORKS
+Product: [WHAT IT DOES]. User: [WHO]. Core outcome: [OUTCOME].
+The first useful thing they should experience: [MOMENT]
+Write the onboarding sequence that gets a new user to that
+moment as fast as possible:
+- The welcome email (short, one action)
+- The first 3 in-product steps
+- A 3-day check-in email
+Assume they are busy and sceptical. No feature tours.
+
+-- 91 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI THE PROMPT LIBRARY
+92
+D · Marketing and content
+PROMPT — A11 — EXTRACT A WEEK OF CONTENT †
+Below is a long-form piece I wrote.
+AUDIENCE: [SPECIFIC PERSON]
+MY VOICE: [DESCRIPTION + 2 SAMPLE SENTENCES]
+Produce: 3 LinkedIn posts (150-250 words, one idea each),
+2 X threads (5-7 posts, strong first line), 1 short-video
+script (45 seconds, hook in 3 seconds).
+Each must stand alone. Use my phrasing, not generic LinkedIn
+voice. No "Here is the thing:", no "Let that sink in", no
+engagement bait.
+SOURCE:
+[PASTE]
+PROMPT — A12 — COLD OUTREACH †
+I offer: [SERVICE AND OUTCOME]
+Recipient: [ROLE] at [COMPANY]
+Specific thing I noticed: [REAL OBSERVATION]
+Proof I can do this: [RESULT OR EXPERIENCE]
+Under 120 words. Open with the observation, not with me. One
+quantified outcome. Ask for a reply, not a call. No flattery,
+no "hope this finds you well", no fake urgency.
+
+-- 92 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI THE PROMPT LIBRARY
+93
+PROMPT — A13 — LANDING PAGE COPY
+Product/service: [WHAT]. For: [SPECIFIC PERSON].
+The problem in their words: [FROM YOUR RESEARCH — verbatim]
+What happens if they do nothing: [COST]
+Proof: [RESULTS, TESTIMONIALS, EXPERIENCE]
+Price: [PRICE]
+Write: a headline stating the outcome, a subheadline naming
+the person, three short problem-agitation paragraphs in their
+language, what they get (outcomes not features), proof, price
+with justification, and one call to action.
+No jargon. No "revolutionary", "seamless", "game-changing".
+Write like someone explaining it to a colleague.
+PROMPT — A14 — CONTENT IDEAS FROM DELIVERY WORK
+This week in my business I: [WHAT ACTUALLY HAPPENED — problems
+solved, mistakes made, things learned, client questions]
+My audience is: [SPECIFIC PERSON]
+Give me 10 content ideas drawn from this. For each: the angle,
+the specific insight, and why my audience would care. Prioritise
+things that are useful even to someone who never hires me.
+Avoid generic advice. The value is in the specificity.
+
+-- 93 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI THE PROMPT LIBRARY
+94
+PROMPT — A15 — SEO ARTICLE BRIEF
+Target query: [LONG-TAIL SEARCH TERM]
+Searcher intent: [WHAT THEY ACTUALLY WANT]
+My angle: [MY EXPERIENCE OR DATA]
+Produce a brief, not the article:
+- The specific question the page must answer in the first 100 words
+- A section outline with the sub-question each section answers
+- What existing top-ranking pages get wrong or leave out
+- Where my first-hand experience should go
+- Related queries to cover on the same page
+I will write the substance myself.
+
+-- 94 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI THE PROMPT LIBRARY
+95
+E · Pricing, sales and operations
+PROMPT — A16 — BUILD THE VALUE CASE †
+I provide [SERVICE] to [CUSTOMER].
+1. What does this problem cost them if unsolved? Consider wasted
+hours, lost revenue, cost of wrong decisions, and what they
+currently spend on alternatives.
+2. Quantify per month and per year, stating assumptions.
+3. What is a defensible price range?
+4. Three sentences I can say aloud justifying the top of that
+range, framed around their outcome.
+5. The three likeliest objections and honest answers.
+Customer context: [SIZE, BUDGET, ALTERNATIVES, URGENCY]
+PROMPT — A17 — HANDLE AN OBJECTION
+A prospect said: "[EXACT OBJECTION]"
+Context: [WHAT I OFFER, PRICE, WHERE WE ARE IN THE CONVERSATION]
+1. What are they most likely actually concerned about?
+2. Is this a real objection or a polite no? How can I tell?
+3. An honest response that does not pressure them
+4. One question I could ask to understand the real concern
+Do not give me manipulative sales tactics. If they should not
+buy, tell me that.
+
+-- 95 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI THE PROMPT LIBRARY
+96
+PROMPT — A18 — DOCUMENT A PROCESS AS AN SOP †
+Here is how I currently do this (rambling is fine):
+[DESCRIBE THE PROCESS]
+Produce:
+1. Numbered steps with decision points
+2. Required inputs and the definition of done
+3. Common failure points and how to handle each
+4. Which steps could be automated, with which tool
+5. Which genuinely require human judgement, and why
+Then: if I could automate only one step, which saves the most
+time and how would I build it?
+PROMPT — A19 — DESIGN AN AUTOMATION
+I want to automate: [DESCRIBE THE WORKFLOW]
+Tools I already pay for: [LIST]
+Technical ability: [NONE / SOME / COMFORTABLE]
+Design the automation:
+- The trigger
+- Each step, in order, with the tool that performs it
+- What data moves between steps
+- Failure points and how to handle them
+- Roughly how long it takes to build
+Prefer tools I already have. Tell me if this is not worth
+automating yet, and what volume would make it worth it.
+
+-- 96 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI THE PROMPT LIBRARY
+97
+PROMPT — A20 — DRAFT A CUSTOMER SUPPORT ANSWER
+Customer wrote: "[THEIR MESSAGE]"
+Context: [WHAT THEY BOUGHT, HOW LONG AGO, ANY HISTORY]
+The actual situation: [WHAT IS TRUE, INCLUDING IF I WAS WRONG]
+Draft a reply that is honest, brief, and solves the problem.
+If I made a mistake, acknowledge it plainly without excessive
+apology. Offer a specific next step. Match my voice: [VOICE].
+No corporate language. No "we sincerely apologise for any
+inconvenience caused".
+
+-- 97 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI THE PROMPT LIBRARY
+98
+APPENDIX B
+Templates and Frameworks
+Fill these in rather than reading them
+B1 · The niche scorecard
+Score each criterion 1–5. Under 24 is likely painful; over 32 is worth committing to.
+# Criterion Score 1 Score 5 Yours
+1 Problem urgency Mild annoyance Costs them weekly ___
+2 Willingness to pay No precedent Already paying ___
+3 Your credibility Complete outsider Real experience ___
+4 Reachability Scattered Concentrated ___
+5 Market size Under 500 Tens of thousands ___
+6 Competition Dominated by giants Weak incumbents ___
+7 Solo feasibility Needs a team You alone with AI ___
+8 Genuine interest Bored in a month Five-year interest ___
+TOTAL ___/40
+
+-- 98 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI TEMPLATES AND FRAMEWORKS
+99
+B2 · The one-sentence positioning statement
+Complete this until it stops sounding generic
+I help [VERY SPECIFIC PERSON IN A SPECIFIC SITUATION]
+......................................................................................................................
+to [ACHIEVE A SPECIFIC OUTCOME]
+......................................................................................................................
+so that they can [DEEPER BENEFIT THEY ACTUALLY CARE ABOUT]
+......................................................................................................................
+without [THE THING THEY DREAD ABOUT THE ALTERNATIVE]
+......................................................................................................................
+B3 · The validation conversation script
+Use this verbatim. Do not pitch. The goal is information, not a sale.
+Opening. "I am researching how [ROLE] handle [PROCESS]. Could I ask you three questions? It
+will take ten minutes and I am not selling anything."
+1. "Walk me through how you currently handle [PROCESS]." (Listen for workarounds and
+frustration. Do not interrupt.)
+2. "What have you tried to improve it, and what happened?" (This reveals whether they have
+ever spent money on this.)
+3. "If this were solved perfectly tomorrow, what would change for you?" (This reveals whether
+the problem actually matters.)
+Closing. "This has been really useful. If I build something that does [SPECIFIC OUTCOME],
+would you want me to show you?" (A yes here is a weak signal. A "how much will it cost?" is a
+strong one.)
+
+-- 99 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI TEMPLATES AND FRAMEWORKS
+100
+B4 · The weekly operating rhythm
+When What Time
+Monday morning Deep work: the one thing that moves the business 2–3 hrs
+Monday afternoon Cornerstone content produced 90 min
+Tuesday Short-form content extracted and scheduled 30 min
+Tue–Thu Delivery and customer work, batched 2–3 hrs/day
+Wed + Fri Sales: 15 outreach messages, follow-ups 45 min each
+Daily Reactive work — email, support, admin — batched once 45 min
+Friday Weekly review: numbers, what shipped, what to stop 60 min
+B5 · The monthly metrics sheet
+Track only these. More metrics produce less clarity.
+Metric Why it matters This month
+Revenue The only score that counts _______
+New customers Is the top of the funnel working? _______
+Churn / lost clients Is the product actually good? _______
+Hours worked Are you building leverage or a job? _______
+Effective hourly rate Revenue ÷ hours. The health metric. _______
+Content published The input you control _______
+Conversations had The leading indicator of everything _______
+
+-- 100 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI TEMPLATES AND FRAMEWORKS
+101
+B6 · The pre-launch checklist
+□ At least five real conversations with target customers, documented
+□ The problem written in their words, not yours
+□ A specific price, decided using the value case, not by comparison
+□ Payment collection working, tested with a real transaction
+□ A landing page describing the outcome, not the features
+□ At least one person who has used it and said something specific and positive
+□ A written answer to "why you?" that is not about passion
+□ A plan for the first ten customers that does not rely on going viral
+
+-- 101 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI TEMPLATES AND FRAMEWORKS
+102
+APPENDIX C
+Operating From India
+Payments, GST, and structure for Indian solo founders
+If you are building from India and selling to customers abroad, you face a set of
+practical questions this book has otherwise treated generically. This appendix
+covers them. It is general information, current as of mid-2026, and not professional
+advice — rules change and a chartered accountant is worth the fee.
+C1 · The Stripe problem
+Many guides written for a global audience assume Stripe. Stripe went invite-only in India in May
+2024 and remains unavailable to most freelancers and new businesses. It lacks the
+cross-border payment aggregator authorisation from the RBI, and where it is available the all-in
+cost approaches six percent. Plan around it rather than for it.
+C2 · How to actually get paid from abroad
+Four categories of solution, with materially different economics. The right choice depends on
+your volume and whether you are selling services or digital products.
+
+-- 102 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI OPERATING FROM INDIA
+103
+Method Typical cost Settlemen
+t
+FIRA Best for
+Bank SWIFT
+transfer
+SWIFT fee + 2–3% FX markup
++ ~₹250
+3–7 days Paid Large one-off invoices
+PayPal ~4.4% + $0.30 + ~4% FX
+spread
+1–3 days Monthly Convenience; expensive
+Razorpay
+MoneySaver
+Export
+~1%, no FX markup ~1 day Yes Services, SaaS,
+marketplace work
+Skydo $19 (≤$2k) / $29 ($2k–10k) /
+0.3% above
+24–48 hrs Instant Lower-volume invoicing
+Winvesta GCA $3 + ~0.99% (USD) 1–2 days Automatic USD-heavy invoicing
+Payoneer ~2–3% FX markup 2–5 days Free
+digital
+Upwork, Fiverr,
+marketplaces
+Wise Business ~0.33–2% depending on route 1–2 days ~$2.50
+each
+Low-cost conversion
+The two things that actually matter
+• FX markup, not the headline fee. A "1% fee" with a 3% exchange-rate markup is a 4% fee.
+Compare the rupees that land in your account against the mid-market rate on the day.
+• FIRA/FIRC documentation. The Foreign Inward Remittance Advice proves you received
+foreign currency for an export. You need it for GST zero-rating and for clean books.
+Peer-to-peer transfer services generally do not issue it, which makes them unsuitable for
+business income regardless of how cheap they look.
+One further compliance detail: every inbound remittance must carry a purpose code under
+FEMA regulations — P0802 for software export, P1006 for royalties, and so on. Modern
+platforms handle this automatically; banks may ask you to specify it.
+C3 · GST on exported services
+The good news is that exported services are zero-rated, meaning you charge no GST to your
+foreign client. Getting that treatment requires meeting conditions and filing one document.
+When a service counts as an export
+All five conditions must hold simultaneously:
+1. The supplier (you) is located in India.
+2. The recipient is located outside India.
+3. The place of supply is outside India, under Section 13 of the IGST Act.
+
+-- 103 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI OPERATING FROM INDIA
+104
+4. Payment is received in convertible foreign exchange (or in rupees where the RBI permits).
+5. The supplier and recipient are separate legal entities — not two arms of the same company.
+Remote software development, design, writing, consulting, and online training delivered to a
+foreign client typically satisfy all five. Services physically performed in India for a foreign client
+generally do not, and intermediary arrangements are treated as supplied in India.
+Registration thresholds
+The general threshold for GST registration on services is ₹20 lakh of annual turnover, reduced
+to ₹10 lakh in special category states. Below that you are not required to register. Many
+exporters register voluntarily anyway, because registration is what allows you to file a Letter of
+Undertaking and to claim refunds of input tax paid on your own purchases.
+The Letter of Undertaking
+The LUT is what lets you invoice a foreign client without collecting IGST and later reclaiming it.
+File Form RFD-11 on the GST portal. It is valid for one financial year and must be renewed each
+April. Most registered taxpayers qualify without needing to furnish a bond. Once approved,
+mark your invoices as a zero-rated supply under LUT.
+Your export compliance checklist
+• Register for GST (mandatory above threshold; often worthwhile below it).
+• File Form RFD-11 (the LUT) — and renew it every April.
+• Confirm the place of supply is genuinely outside India for each engagement.
+• Invoice with the SAC code, the billing currency, the INR equivalent, and a
+zero-rated-under-LUT note.
+• Obtain the FIRA or FIRC for every payment received.
+• Report exports in GSTR-1 Table 6A and in GSTR-3B.
+• Ensure payment arrives within one year — beyond that, without an RBI extension, export
+status can be denied.
+
+-- 104 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI OPERATING FROM INDIA
+105
+C4 · Business structure
+Structure Setup burden When it fits Watch out for
+Sole
+proprietorship
+Minimal — current
+account and registrations
+Starting out, revenue under
+roughly ₹40–50 lakh
+No liability protection;
+income taxed at slab rates
+One Person
+Company
+Moderate — MCA
+incorporation, annual
+filings
+Meaningful revenue, want
+limited liability, sole owner
+Compliance cost;
+mandatory audit above
+thresholds
+LLP Moderate Two or more partners;
+simpler than a company
+Not available to a single
+person
+Private Limited Higher — full compliance
+and audit
+Raising investment, hiring, or
+planning an exit
+Overhead is rarely justified
+for a true solo business
+For most readers of this book, a sole proprietorship with a current account, GST registration
+where applicable, and a good chartered accountant is the correct starting configuration.
+Incorporate when there is a specific reason — liability exposure, a client who requires it, or a tax
+calculation that favours it — rather than because it feels more official.
+C5 · Income tax and the presumptive scheme
+Beyond GST, your business income is subject to income tax. Two features of the Indian system
+are particularly relevant to solo operators, and both are worth discussing with an accountant:
+the presumptive taxation scheme under Section 44ADA for eligible professionals, which allows
+income to be declared as a fixed percentage of gross receipts and dramatically simplifies
+bookkeeping, and advance tax, which requires tax to be paid in instalments through the year
+rather than in a single annual payment.
+The habit that prevents a crisis
+Move 30 percent of every payment you receive into a separate account on the day it arrives,
+and treat that account as untouchable. Between GST liabilities, advance tax instalments, and
+annual income tax, founders who spend gross revenue as though it were net income are the
+ones facing a serious problem in month fourteen. This single habit prevents almost all of it.
+
+-- 105 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI OPERATING FROM INDIA
+106
+C6 · Pricing for a global market from India
+A structural advantage worth using deliberately: your cost base is in rupees and your revenue
+can be in dollars, euros, or pounds. Two implications follow. First, do not price against the local
+market when selling internationally — price against the value delivered to the client in their own
+economy, exactly as Chapter 8 describes. Second, resist the temptation to compete on being
+cheap. Positioning as the low-cost option attracts the worst clients, invites constant price
+pressure, and is the single most common way skilled Indian solo operators end up overworked
+and underpaid.
+YOUR ACTION STEPS
+□ Choose a payment platform based on total landed cost, not the headline fee.
+□ Confirm your chosen platform issues FIRA automatically.
+□ If you are GST-registered, file or renew your LUT before invoicing internationally.
+□ Open a separate tax account and automate a 30 percent transfer from every payment.
+□ Book one hour with a chartered accountant before your first international invoice.
+
+-- 106 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI OPERATING FROM INDIA
+107
+APPENDIX D
+Tools and Communities
+A directory, with honest notes
+Prices are indicative as of mid-2026 and change frequently. Verify before subscribing. Nothing
+here is a paid placement.
+
+-- 107 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI TOOLS AND COMMUNITIES
+108
+AI assistants and research
+Tool Use Cost
+Claude Long-document reasoning, careful writing, code review $20/mo
+ChatGPT General assistant, images, voice, broad plugin ecosystem $20/mo
+Perplexity Research with citations you can verify Free–$20/mo
+NotebookLM Reasoning over your own documents and sources Free
+
+-- 108 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI TOOLS AND COMMUNITIES
+109
+Building
+Tool Use Cost
+Cursor AI code editor for people who write some code $20/mo
+Replit Build and deploy in-browser with AI; non-technical friendly Free–$25/mo
+Lovable Describe an app, get working software $20–$40/mo
+Bubble Mature no-code app builder with a real learning curve Free–$32/mo
+Carrd One-page sites in under an hour $19/yr
+Framer /
+Webflow
+Marketing sites with design control $15–$39/mo
+
+-- 109 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI TOOLS AND COMMUNITIES
+110
+Selling and payments
+Tool Use Cost
+Gumroad Digital products with almost no setup ~10% per sale
+Lemon
+Squeezy /
+Paddle
+Merchant of record — handles global sales tax ~5% + fees
+Podia /
+Teachable
+Courses and memberships $33–$99/mo
+Razorpay Payments and international collection from India ~1–3%
+Skydo /
+Winvesta
+Low-cost international collection into India See Appendix C
+
+-- 110 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI TOOLS AND COMMUNITIES
+111
+Content and distribution
+Tool Use Cost
+Beehiiv Newsletter with growth and monetisation tooling Free–$49/mo
+Kit (ConvertKit) Email automation for creators Free–$29/mo
+Postiz Publish across 30+ social channels from one workflow $19–$29/mo
+Descript Edit video and audio by editing text $12–$24/mo
+ElevenLabs AI voice and narration $5–$22/mo
+Canva Design without design skills Free–$13/mo
+
+-- 111 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI TOOLS AND COMMUNITIES
+112
+Operations
+Tool Use Cost
+Zapier Automation with the widest integration coverage $20–$30/mo
+Make More powerful branching logic; steeper curve $9–$29/mo
+n8n Self-hosted automation, no per-task cost Free self-hosted
+Notion Company brain: docs, CRM, content calendar Free–$20/mo
+Lindy AI agents for inbox, scheduling, CRM hygiene Free–$49/mo
+Cal.com Scheduling without the email tennis Free–$15/mo
+
+-- 112 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI TOOLS AND COMMUNITIES
+113
+Research and validation
+Resource Use Cost
+Google Trends Direction of search interest over years Free
+Exploding
+Topics
+Early-stage trend detection Free–$39/mo
+Reddit Where people describe problems in their own words Free
+Similarweb Competitor traffic and channel mix Free tier
+Ahrefs Free
+Tools
+Keyword difficulty and backlink basics Free tier
+Communities worth joining
+• Indie Hackers — the longest-running community of bootstrapped solo founders. Revenue
+transparency is the norm, which makes it unusually useful.
+• Build-in-public on X — follow founders in your specific niche rather than general business
+accounts. The peer network matters more than the content.
+• r/Entrepreneur, r/SaaS, r/SideProject — variable quality, but excellent for observing what
+problems people actually complain about.
+• Niche-specific Discord and Slack communities — the highest-value ones are usually the
+smallest and hardest to find. Ask people in your niche where they gather.
+One community, used properly
+Joining ten communities and lurking in all of them produces nothing. Join one, introduce
+yourself, post what you are working on weekly, and reply to other people substantively. The
+relationships that come from being a genuine participant in one place are worth more than
+passive membership in twenty.
+Sources and further reading
+The research underlying this book draws on reporting and data from Fortune, Forbes,
+Entrepreneur, Carta's solo founder research, Cipher Projects, Nevermined AI, GetStackSmart,
+EntrepreneurLoop, Karbon, Skydo, Winvesta, TaxAdda, and the public writing of the founders
+profiled in Chapter 12 — particularly Pieter Levels, Justin Welsh, and Dan Koe, all of whom
+publish extensively about their own methods and numbers. Reading those founders directly, in
+their own words, is the single best follow-up to this book.
+
+-- 113 of 114 --
+
+THE ONE-PERSON STARTUP WITH AI TOOLS AND COMMUNITIES
+114
+End of book · The One-Person Startup With AI · 2026
+
+-- 114 of 114 --
+
